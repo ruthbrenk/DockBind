@@ -1,0 +1,6 @@
+c1cc2c(cc1C(=[NH2+])N)nc([nH]2)C3=CC=CNC3=O  1GHV_120
+c1cc(c(nc1)c2[nH]c3ccc(cc3n2)C(=[NH2+])N)O  1GHY_121
+c1ccc(cc1)c2cccc(c2[O-])c3cc4cc(ccc4[nH]3)C(=[NH2+])N  1O2G_696
+c1cc2c(cc1C(=[NH2+])N)[nH]c([nH+]2)Cc3[nH]c4cc(ccc4n3)C(=[NH2+])N  1C1V_BAB
+c1ccc(c(c1)c2[nH]c3ccc(cc3n2)C(=[NH2+])N)O  1GHW_BMZ
+C[C@H]1CCCC[C@@H]1Oc2cccc(c2[O-])c3[nH]c4cc(c(cc4n3)C(=[NH2+])N)F  1O5G_CR9

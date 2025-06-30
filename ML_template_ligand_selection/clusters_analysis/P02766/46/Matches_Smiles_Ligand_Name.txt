@@ -1,0 +1,2 @@
+c1cc(c(cc1C=O)O)Oc2ccc(cc2Cl)Cl  4ABU_FT1
+c1cc(c(cc1CCl)O)Oc2ccc(cc2Cl)Cl  4ABV_FT2

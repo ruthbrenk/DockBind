@@ -1,0 +1,3 @@
+c1cc(cc(c1)[N+](=O)[O-])c2cc(cc3c2nccc3)Cc4ccncc4  3G58_988
+c1cc(cc(c1)[N+](=O)[O-])N2c3c(cccn3)C(=O)N(C2=O)Cc4ccncc4  3G4G_D71
+c1cc(cc(c1)[N+](=O)[O-])c2c3c(cccn3)cc(n2)c4ccc(cc4)C(=O)O  2QYN_NPV

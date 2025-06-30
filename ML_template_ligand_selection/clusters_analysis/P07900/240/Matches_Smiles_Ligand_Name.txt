@@ -1,0 +1,6 @@
+CCNC(=O)c1cc2c(nc(nc2s1)N)c3cc(c(cc3Cl)Cl)OCCN4CCCC4  2WI7_2KL
+Cc1cc(nc(n1)N)c2cc(c(cc2Cl)Cl)OC  3RLP_3RP
+c1c(c(cc(c1OCCN2CCOCC2)Cl)Cl)c3cc(nc(n3)N)Cl  2XHR_C0P
+CC(CNC(=O)N1Cc2c(nc(nc2c3c(cc(cc3Cl)Cl)OCCn4cccn4)N)C1)(F)F  3R4P_FU7
+c1ccc(cc1)/N=N/c2cnc(nc2c3ccc(cc3Cl)Cl)N  2WI4_ZZ4
+CCNC(=O)c1cc2c(nc(nc2s1)N)c3ccc(cc3Cl)Cl  2WI6_ZZ6

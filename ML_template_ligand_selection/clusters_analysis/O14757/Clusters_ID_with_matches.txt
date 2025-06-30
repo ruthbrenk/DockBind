@@ -1,0 +1,16 @@
+Cluster number 110 has matched molecules:  2
+Cluster number 133 has matched molecules:  7
+Cluster number 126 has matched molecules:  2
+Cluster number 132 has matched molecules:  9
+Cluster number 81 has matched molecules:  2
+Cluster number 104 has matched molecules:  3
+Cluster number 115 has matched molecules:  2
+Cluster number 120 has matched molecules:  3
+Cluster number 116 has matched molecules:  3
+Cluster number 99 has matched molecules:  2
+Cluster number 113 has matched molecules:  8
+Cluster number 114 has matched molecules:  2
+Cluster number 119 has matched molecules:  5
+Cluster number 122 has matched molecules:  6
+Cluster number 107 has matched molecules:  8
+Cluster number 88 has matched molecules:  2

@@ -1,0 +1,2 @@
+Cluster number 22 has matched molecules:  6
+Cluster number 23 has matched molecules:  7

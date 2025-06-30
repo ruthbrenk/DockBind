@@ -1,0 +1,2 @@
+CS(=O)(=O)c1ccc(c(c1)F)C2NC(ON2)[C@@H](CC3CC3)[C@@H](C(=O)N4CC[C@@H](C4)F)N  3C43_315
+CS(=O)(=O)c1ccc(c(c1)Cl)c2nc(on2)[C@@H](CC3CC3)[C@@H](C(=C4CCCC4)F)N  3C45_317

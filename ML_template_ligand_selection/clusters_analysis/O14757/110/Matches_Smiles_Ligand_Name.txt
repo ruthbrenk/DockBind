@@ -1,0 +1,2 @@
+Cn1cc(cn1)c2cnn3c2nc(c(c3N)Br)[C@@H]4CCC[C@@H](C4)N  3OT3_22K
+Cc1cc(sn1)Nc2cc(nc3n2ncc3c4cnn(c4)C)[C@@H]5CCCNC5  3OT8_MI5

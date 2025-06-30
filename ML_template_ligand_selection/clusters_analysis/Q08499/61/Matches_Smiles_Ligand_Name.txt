@@ -1,0 +1,8 @@
+CCOc1cc2c(cc1OC)CCN(C2)C=O  6IM6_AH3
+CCOc1cc2c(cc1OC)CN(CC2)C=O  6IMI_AH6
+COc1cc2c(cc1OC)CN(CC2)C=O  6IMD_AH9
+COc1cc2c(cc1OC)[C@@H](N(CC2)C=O)Cc3c[nH]c4c3cccc4  6IMO_AJL
+COc1cc2c(cc1OC)[C@@H](N(CC2)C=O)CCCc3c[nH]c4c3cccc4  6IMR_AJX
+COc1cc2c(cc1OC)[C@@H](N(CC2)C=O)CCc3c[nH]c4c3ccc(c4)F  6IMT_AK0
+Cc1ccc2c(c1)[nH]cc2CC[C@H]3c4cc(c(cc4CCN3C=O)OC)OC  6IND_AKO
+COc1cc2c(cc1OC)[C@@H](N(CC2)C=O)CCc3c[nH]c4c3cccc4  6INK_AKU

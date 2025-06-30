@@ -1,0 +1,2 @@
+[H]/N=C(/N=C/CC[C@@H](C(=O)O)N)N(C)OC  4FVZ_4KJ
+[H]/N=C(NOC(C)(C)C)/N=C/CC[C@@H](C(=O)O)N  4GQE_6KJ

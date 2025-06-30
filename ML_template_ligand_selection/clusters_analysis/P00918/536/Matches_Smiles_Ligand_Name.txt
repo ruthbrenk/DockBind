@@ -1,0 +1,2 @@
+c1cc2c(cc1n3cc(nn3)CO[C@H]4[C@@H]([C@H]([C@@H]([C@@H](O4)CO)O)O)O)S(=O)(=O)NC2=O  6GCY_3QR
+c1ccc(cc1)n2cc(nn2)CN(Cc3cn(nn3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)c5nnc(s5)S(=O)(=O)N  4RN4_3T7

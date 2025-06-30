@@ -1,0 +1,3 @@
+CN(c1ccccc1)S(=O)(=O)[C@@H]2C[C@H]3C(=C([C@@H]2O3)c4ccc(cc4)O)c5ccc(cc5)O  5KCD_OB2
+CN(c1ccccc1Cl)S(=O)(=O)[C@@H]2C[C@H]3C(=C([C@@H]2O3)c4ccc(cc4)O)c5ccc(cc5)O  5KCE_OB3
+CCN(c1ccc2ccccc2c1)S(=O)(=O)[C@@H]3C[C@H]4C(=C([C@@H]3O4)c5ccc(cc5)O)c6ccc(cc6)O  5KCU_OB8

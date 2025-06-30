@@ -1,0 +1,3 @@
+[H]/N=C(/N)Nc1ccc(cc1)CC(=O)c2ccccc2  2R2W_4PG
+[H]/N=C(/N)Nc1ccc(cc1)CNC(=O)NC23CC4CC(C2)CC(C4)C3  1EJN_AGB
+[H]/N=C(/N)Nc1ccc(cc1)CNC(=O)[C@H](C)NC(=O)[C@@H](CO)NS(=O)(=O)Cc2ccccc2  1W13_SM1

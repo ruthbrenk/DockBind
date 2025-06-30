@@ -1,0 +1,2 @@
+CC(=O)Nc1ccc2c(c1)[C@H](C(=O)N2C)CC#N  4GR9_372
+CC(=O)NCC[C@@H]1c2cc(ccc2NC1=O)NC(=O)C  4GQI_M49

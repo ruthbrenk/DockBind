@@ -1,0 +1,4 @@
+C[C@H]1Cc2ccccc2N1NC(=O)c3ccc(c(c3)S(=O)(=O)N)Cl  3BL1_BL1
+CCCCNC(=O)c1cc(c(cc1Cl)Cl)S(=O)(=O)N  6G6T_ENN
+c1ccc(cc1)S(=O)(=O)c2cc(c(cc2C(=O)NCCO)S(=O)(=O)N)Cl  6R6J_JTW
+c1ccc2c(c1)C(=O)N[C@@]2(c3ccc(c(c3)S(=O)(=O)N)Cl)O  3F4X_KLT

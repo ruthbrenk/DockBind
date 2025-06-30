@@ -1,0 +1,4 @@
+c1cnc(c2c1n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N  1HP0_AD3
+c1c(c2c([nH]1)c(ncn2)O)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  3B9G_IMH
+c1cc2cccnc2c(c1)C[N@]3C[C@@H]([C@@H]([C@H]3CO)O)O  3EPX_IMQ
+c1c(c2c([nH]1)C(=O)NC=N2)C[N@]3C[C@@H]([C@@H]([C@H]3CO)O)O  3EPW_JMQ

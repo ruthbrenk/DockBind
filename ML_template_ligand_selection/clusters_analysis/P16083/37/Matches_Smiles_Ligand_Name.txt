@@ -1,0 +1,3 @@
+C[N+](C)(CCNC1CCc2c3c1c(c4cc(ccc4n3cn2)OC)O)O  3TEM_6A1
+CC1(COC1)COc2ccc3c(c2)ncn3c4ccc5cccc(c5n4)N6CCC(CC6)N  5LBY_6T2
+CN(C)CCNc1ccc2c3c1C(=O)c4cc(ccc4-n3cn2)OC  3TE7_TE7

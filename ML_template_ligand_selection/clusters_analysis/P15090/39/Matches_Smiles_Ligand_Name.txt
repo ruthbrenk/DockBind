@@ -1,0 +1,9 @@
+c1ccc(cc1)c2c3cc(ccc3nc(c2C(=O)O)N4CCCCC4)Cl  5EDC_5M7
+Cc1c(c(c2cc(ccc2n1)Cl)c3ccccc3)C(=O)O  5EDB_5M8
+CC(C)c1cccc(c1)c2c3cc(ccc3nc(c2C(=O)O)C(C)C)Cl  5HZ6_65Y
+c1ccc(cc1)c2c3cc(cc(c3nc(c2C(=O)O)N4CCCCC4)Cl)Cl  5HZ8_65Z
+c1ccc(cc1)c2c(cccc2Cl)Nc3ccccc3C(=O)O  6LJT_EH6
+c1ccc(c(c1)C(=O)O)Nc2cccc(c2c3ccc4c(c3)CCO4)Cl  6LJV_EHC
+c1ccc(cc1)Nc2ccccc2C(=O)O  6LJW_EHO
+c1ccc(cc1)c2ccccc2Nc3ccccc3C(=O)O  6LJS_EHR
+CNc1ccc(c(c1Cl)c2ccccc2)Nc3ccccc3C(=O)O  6LJU_EHU

@@ -1,0 +1,3 @@
+CCn1c2c(cn1)c(c(cn2)C(=O)NCc3ccccc3)NC4CCOCC4  3D3P_20A
+CCn1c2c(cn1)c(c(cn2)c3nc(no3)CC(=O)N4CCCC4)NC5CCOCC5  3O56_ZG1
+CCn1c2c(cn1)c(c(cn2)c3nc(c(o3)Cc4ccccc4)CC(=O)N5CCCC5)NC6CCOCC6  3O57_ZG2

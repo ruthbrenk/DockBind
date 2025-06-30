@@ -1,0 +1,2 @@
+c1cnc(nc1)SCC(=O)c2ccc(c(c2)Cl)S(=O)(=O)N  4KP5_E1F
+c1cc(cc(c1)S(=O)(=O)N)C(=O)CSc2ncccn2  4KP8_E1G

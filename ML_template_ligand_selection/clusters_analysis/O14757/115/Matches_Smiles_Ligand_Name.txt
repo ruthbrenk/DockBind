@@ -1,0 +1,2 @@
+c1cc(cc(c1)O)c2cncc(n2)c3ccc(cc3)C(=O)O  4QYE_3DL
+c1cc(cc(c1)O)C2=CNC(=O)c3c2cc(c4c3cc(cc4)c5c[nH]nc5)CCCN  2R0U_M54

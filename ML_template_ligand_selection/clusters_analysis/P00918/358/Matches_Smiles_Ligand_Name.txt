@@ -1,0 +1,2 @@
+c1cc(ccc1c2ccc(cc2)S(=O)(=O)N)C(=O)c3ccc(cc3)N  5E2R_520
+c1cc(ccc1c2ccc(cc2)S(=O)(=O)N)N  5E28_BC5

@@ -1,0 +1,5 @@
+c1ccc(cc1)C(c2ccccc2)[C@H](C(=O)N3CCC[C@H]3C(=O)NCc4cc(ccc4Cl)Cl)N  1TA2_176
+c1ccc(cc1)C(c2ccccc2)[C@H](C(=O)N3CCC[C@H]3C(=O)NCc4cccc(c4)Cl)N  3DHK_23U
+[H]/N=C(/c1ccc(cc1)CNC(=O)[C@@H]2CCCN2C(=O)[C@@H](C(c3ccccc3)c4ccccc4)N)N  2ZO3_33U
+CCCNC(=O)[C@@H]1CCCN1C(=O)[C@@H](C(c2ccccc2)c3ccccc3)N  3DA9_44U
+c1ccc(cc1)C(c2ccccc2)[C@H](C(=O)N3CCC[C@H]3C(=O)NCc4ccncc4)N  6TDT_LXW

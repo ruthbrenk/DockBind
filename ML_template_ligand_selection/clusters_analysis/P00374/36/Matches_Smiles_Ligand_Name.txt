@@ -1,0 +1,7 @@
+c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc5c(c4)CN(C5=O)[C@@H](CCC(=O)O)C(=O)O  3NU0_3TU
+c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc(cc4)C(=O)N[C@@H](CCC(=O)O)C(=O)O  3NTZ_3TZ
+c1cc(ccc1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCc2cnc3c(n2)C(=O)N=C(N3)N  1DRF_FOL
+CCc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  3GHC_GHC
+Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  3GHW_GHW
+C[N@](Cc1coc2c1c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  1HFQ_MOT
+CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  3EIG_MTX

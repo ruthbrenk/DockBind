@@ -1,0 +1,2 @@
+[H]/N=C(c1ccc2c(c1)[C@H]3c4ccccc4C[C@H]3[C@@H](N2)c5cc(c(cc5c6ccc(cc6)C(=O)O)O)OC)/N  4ISH_1GE
+[H]/N=C(c1ccc2c(c1)[C@H](C[C@H](N2)c3cc(cc(c3)N)c4ccccc4C(=O)O)c5ccccc5)/N  4NA9_1T7

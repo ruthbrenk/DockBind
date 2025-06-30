@@ -1,0 +1,5 @@
+c1cc(cc(c1)Cl)N2CC[N@@](CC2=O)Cc3cncn3Cc4ccc(cc4)C#N  1S63_778
+CC[C@]1(CCCCN(C1=O)C)c2cccc(c2)Oc3cc(ccc3C#N)[C@@](C)(c4cncn4C)N  1MZC_BNE
+Cc1ccccc1S(=O)(=O)[N@](CC[N@@](Cc2cncn2C)c3ccc(cc3)C#N)CC4CCN(CC4)C(=O)OC(C)(C)C  3E37_ED5
+c1cc2ccc3cc2c(c1)N4CCC(C4=O)NCc5cncn5Cc6ccc(c(c6)O3)C#N  1LD8_U49
+c1cc2ccc3cc2c(c1)N4CC[C@@H](C4=O)NCCc5cncn5CC6=CCC(C(C6)O3)C#N  1LD7_U66

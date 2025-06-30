@@ -1,0 +1,10 @@
+c1ccc2cc(ccc2c1)S(=O)(=O)NCCOP(=O)(O)O  2CLH_F19
+c1cc(ccc1C(=O)NCCOP(=O)(O)O)OC(F)(F)F  2CLE_F6F
+c1cc(ccc1OC(F)(F)F)S(=O)(=O)NCCOP(=O)(O)O  2CLI_F9F
+c1cc2c(cc1F)c(c[nH]2)CCCOP(=O)(O)O  1A5S_FIP
+C([C@H](C=O)O)OP(=O)(O)O  2CLK_G3H
+C([C@H](COP(=O)(O)O)O)O  1WBJ_G3P
+c1ccc(c(c1)O)SCCC=CP(=O)(O)O  1C8V_HE1
+c1cc(c(cc1F)SCCC=CP(=O)(O)O)O  1C9D_HF1
+c1ccc(c(c1)O)[S@](=O)CCCCP(=O)(O)O  1CW2_HSP
+c1ccc(c(c1)N)SCCCCP(=O)(O)O  1CX9_NHP

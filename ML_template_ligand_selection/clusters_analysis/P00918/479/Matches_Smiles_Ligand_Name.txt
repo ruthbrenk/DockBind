@@ -1,0 +1,5 @@
+c1cc(ccc1Nc2c(c(ncn2)Cl)[N+](=O)[O-])S(=O)(=O)N  3M40_J45
+COc1c(c(ncn1)NCc2ccc(cc2)S(=O)(=O)N)[N+](=O)[O-]  3MHL_J71
+c1ccc(cc1)CNc2c(c(ncn2)NCc3ccc(cc3)S(=O)(=O)N)[N+](=O)[O-]  3MHM_J75
+c1cc(ccc1CNC2=C(C(=O)NC=N2)[N+](=O)[O-])S(=O)(=O)N  3MHI_J90
+COc1c(c(ncn1)NCCc2ccc(cc2)S(=O)(=O)N)[N+](=O)[O-]  3M3X_JS7

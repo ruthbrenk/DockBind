@@ -1,0 +1,2 @@
+C[C@@H]1CN(C[C@@H](O1)C)c2cc(ncn2)c3c4cc(ccc4[nH]n3)OC5(CC5)C  5OPB_A1N
+c1ccc2c(c1)c(n[nH]2)c3[nH]c4ccccc4n3  2C3L_IDZ

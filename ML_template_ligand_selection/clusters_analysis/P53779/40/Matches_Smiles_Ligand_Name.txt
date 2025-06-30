@@ -1,0 +1,5 @@
+Cc1cc(ccn1)NC(=O)c2cccc(c2)n3cc(cn3)NC(=O)Nc4ccccc4Cl  4W4V_3H8
+Cc1cc(ccn1)NC(=O)c2cccc(c2)n3cc(cn3)NC(=O)Nc4ccccc4  4W4W_3HJ
+Cc1ccc(cc1)NC(=O)Nc2cnn(c2)c3cccc(c3)C(=O)Nc4ccnc(c4)C  4W4Y_3HQ
+COc1cc(cc(c1OC)OC)NC(=O)c2cccc(c2)n3cc(cn3)NC(=O)Nc4ccccc4  3FI2_JK1
+COc1cc(cc(c1OC)OC)NC(=O)c2cccc(c2)n3c4ccc(cc4cn3)Nc5ccccc5F  3FI3_JK2

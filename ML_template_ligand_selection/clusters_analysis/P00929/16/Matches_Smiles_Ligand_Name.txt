@@ -1,0 +1,4 @@
+c1ccc2cc(ccc2c1)S(=O)(=O)NCCOP(=O)(O)O  2CLH_F19
+c1cc(ccc1C(=O)NCCOP(=O)(O)O)OC(F)(F)F  2CLE_F6F
+c1cc(ccc1OC(F)(F)F)S(=O)(=O)NCCOP(=O)(O)O  2CLI_F9F
+c1cc2c(cc1F)c(c[nH]2)CCCOP(=O)(O)O  1A5S_FIP

@@ -1,0 +1,3 @@
+COc1ccnc2c1c(c[nH]2)c3ccnc(n3)N  3BHT_MFR
+CCCOc1ccnc2c1c(c[nH]2)c3ccnc(n3)N  3BHU_MHR
+c1cnc(n2c1c(c3c2nccc3O)c4ccnc(n4)N)N  3BHV_VAR

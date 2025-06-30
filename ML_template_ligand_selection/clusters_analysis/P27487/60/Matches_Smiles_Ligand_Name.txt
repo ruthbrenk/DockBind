@@ -1,0 +1,6 @@
+C[C@@H]1c2nc(nn2CCN1C(=O)C[C@@H](Cc3cc(c(cc3F)F)F)N)C(F)(F)F  2QOE_448
+C[C@@H]1C(=O)NCCCN1C(=O)C[C@@H](Cc2cc(c(cc2F)F)F)N  2IIV_565
+c1c(c(cc(c1F)F)F)C[C@H](CC(=O)N2CCn3c(nnc3C(F)(F)F)C2)N  1X70_715
+c1c(c(cc(c1F)F)F)C[C@H](CC(=O)N2CCCNC(=O)C2CC(F)(F)F)N  2IIT_872
+c1cc(ccc1C(=O)N2CCCN(CC2)C(=O)C[C@@H](Cc3cc(c(cc3F)F)F)N)C(=O)O  3EIO_AJH
+c1ccc(cc1)C(=O)N2CCCCCN2C(=O)C[C@@H](Cc3cc(c(cc3F)F)F)N  2OLE_KR2

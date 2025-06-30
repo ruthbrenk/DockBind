@@ -1,0 +1,3 @@
+Cc1c(sc(n1)NC(=O)C)c2csc(n2)Nc3ccccc3OC  5UE4_5XQ
+CC(C)ON([C@H](CCN1C(=O)c2ccccc2C1=O)C(=O)NO)S(=O)(=O)c3ccc(cc3)c4ccc(cc4)OC  4WZV_E40
+CC(C)[C@H](C(=O)O)N(/C=C/NC(=S)N[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)COC(=O)C)OC(=O)C)OC(=O)C)NC(=O)C)S(=O)(=O)c2ccc(cc2)c3ccccc3  5I12_H27

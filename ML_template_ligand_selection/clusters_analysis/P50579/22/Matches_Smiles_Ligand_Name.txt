@@ -1,0 +1,5 @@
+c1cc(ccc1S(=O)(=O)Nc2ccc(cc2C(=O)O)Br)Cl  2GA2_A19
+Cc1ccc(c(c1)C(=O)O)NS(=O)(=O)c2ccccc2  1YW7_A41
+CN(C)CC=C/c1cc(ccc1S(=O)(=O)Nc2ccc3c(c2C(=O)O)CCCC3)F  1YW9_A84
+CCc1ccc(c(c1C)C(=O)O)NS(=O)(=O)c2ccc(cc2)F  2EA2_F77
+CCc1ccc(c(c1OCCN)C(=O)O)NS(=O)(=O)c2ccc(cc2)F  2EA4_F79

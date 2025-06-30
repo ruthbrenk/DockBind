@@ -1,0 +1,8 @@
+[H]/N=C(c1ccc(cc1)[C@H]2[C@@H]3[C@H]([C@H]4[N@@]2CCC4)[C@H](N(C3=O)Cc5ccc(cc5)OC)C(C)C)/N  2CF9_348
+[H]/N=C(c1ccc(cc1)[C@H]2[C@@H]3[C@H]([C@H]4[N@@]2CCC4)[C@H](N(C3=O)Cc5ccc(cc5)Cl)C(C)C)/N  2CF8_ESH
+c1cc(ccc1CN2[C@@H]([C@H]3[C@@H]4CCC[N@@]4[C@H]([C@H]3C2=O)c5ccc(cc5)C(N)N)C(F)F)F  2CN0_F25
+c1cc(ccc1CN2C(=O)[C@H]3[C@@H]4CCC[N@@]4[C@H]([C@H]3C2=O)c5ccc(cc5)C(=[NH2+])N)F  1OYT_FSN
+[H]/N=C(c1ccc(cc1)[C@H]2[C@@H]3[C@H]([C@H]4[N@@]2C[C@@H](C4)O)C(=O)N(C3=O)Cc5ccc6c(c5)OCO6)/N  1VZQ_SHY
+CC[C@@H]1[C@@H]2[C@@H]([C@@H]([N@](C2(C)C)C)c3ccc(cc3)C(=N)N)C(=O)N1Cc4ccc5c(c4)OCO5  1YPJ_UIB
+CC[C@@H]1[C@H]2[C@@H]3CCC[N@@]3[C@H]([C@H]2C(=O)N1Cc4ccc5c(c4)OCO5)c6ccc(cc6)C(=N)N  1YPE_UIP
+c1cc(ccc1[C@H]2[C@@H]3[C@H]([C@H]4[N@@]2CCC4)[C@H](N(C3=O)Cc5ccc6c(c5)OCO6)C7CC7)C(=N)N  1YPG_UIR

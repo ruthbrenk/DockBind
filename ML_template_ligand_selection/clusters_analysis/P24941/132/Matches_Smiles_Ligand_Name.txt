@@ -1,0 +1,2 @@
+CC(=O)NC1CC(C1)n2cc(nc2)NC(=O)Cc3ccc(cc3)OC  3IG7_EFP
+COc1ccc(cc1)CC(=O)Nc2cn(cn2)C3CC(C3)O  3IGG_EFQ

@@ -1,0 +1,2 @@
+c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)C(=O)NCCN)O)O)N  6CYH_N5A
+c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)C(=O)NCCO)O)O)N  6CYG_N5O

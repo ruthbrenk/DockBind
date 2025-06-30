@@ -1,0 +1,2 @@
+c1ccc(cc1)C(=O)Nc2nc3cc(ccc3o2)S(=O)(=O)N  5TFX_7B1
+c1ccc(cc1)c2c3cc(ccc3[nH]c2C(=O)NN)S(=O)(=O)N  3B4F_TUO

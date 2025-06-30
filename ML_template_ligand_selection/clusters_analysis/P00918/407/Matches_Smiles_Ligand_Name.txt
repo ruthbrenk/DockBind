@@ -1,0 +1,2 @@
+c1cc(cc(c1)c2ccc(cc2)S(=O)(=O)N)C=O  5SZ6_72G
+c1cc(cc(c1)N)c2ccc(cc2)S(=O)(=O)N  5E2K_BX4

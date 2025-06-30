@@ -1,0 +1,2 @@
+CC(C)c1ccccc1c2ccc(cc2)S(=O)(=O)N  5E2S_5CX
+Cc1ccccc1c2ccc(cc2)S(=O)(=O)N  5SZ5_72E

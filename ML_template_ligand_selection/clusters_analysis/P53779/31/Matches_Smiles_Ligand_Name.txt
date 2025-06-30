@@ -1,0 +1,2 @@
+CCCn1c(c(nc1C2CCNCC2)c3ccc(c(c3)Cl)Cl)c4ccnc(n4)NC5CCCCC5  4Z9L_880
+CCCn1c(c(nc1C2CCN(CC2)C)c3ccc(c(c3)Cl)Cl)c4ccnc(n4)NC5CC5  1PMN_984

@@ -1,0 +1,2 @@
+c1ccc(cc1)/C=C/COC2CCC(CC2)(CN)c3ccccc3  4N8D_2KS
+c1cc(cc(c1)Cl)C2(CCC(CC2)N3CCCCC3=O)CN  4N8E_2KV

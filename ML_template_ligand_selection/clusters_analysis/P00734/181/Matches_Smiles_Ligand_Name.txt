@@ -1,0 +1,4 @@
+Cn1c2ccc(cc2nc1Cc3ccc(cc3)C(=N)N)NS(=O)(=O)c4ccccc4  1KTT_C02
+CCOC(=O)CCN(c1ccccn1)C(=O)c2ccc3c(c2)nc(n3C)CNc4ccc(cc4)C(=N)N  1KTS_C24
+[H]/N=C(/c1ccc(cc1)NCc2nc3cc(ccc3n2C)Cn4c(nc5c4cccc5)C)N  1G32_R11
+[H]/N=C(/c1ccc(cc1)NCc2nc3cc(ccc3n2C)C4(CC4)/C(=NOCC(=O)OCC)/c5ccccn5)N  1G30_T87

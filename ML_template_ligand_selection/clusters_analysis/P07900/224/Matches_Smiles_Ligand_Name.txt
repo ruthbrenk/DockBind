@@ -1,0 +1,9 @@
+CN(c1ccc(cc1)N2CCOCC2)C(=O)c3cc4c(cc3O)n[nH]c4C(=O)N5CCCCC5  5LNY_70K
+CCCCN(C)C(=O)c1c2cc(c(cc2n[nH]1)O)C(=O)N(C)c3ccc(cc3)N4CCOCC4  5LNZ_70Z
+CN(c1ccc(cc1)N2CCOCC2)C(=O)c3cc4c(cc3O)n[nH]c4C(=O)N5CCCC5  5NYH_9EK
+Cc1cccc(c1)Cc2c3cc(c(cc3[nH]n2)O)C(=O)N(C)c4ccc(cc4)N5CCOCC5  5OCI_9R8
+CN(c1ccc(cc1)N2CCOCC2)C(=O)c3cc4c(cc3O)[nH]nc4C(=O)N5CCC[C@@H](C5)OC  5ODX_9RZ
+Cc1cccc(c1)Cc2c3cc(c(cc3[nH]n2)O)C(=O)N(C)c4ccc5c(c4)OCO5  6EYA_C4K
+Cc1cccc(c1)Cc2c3cc(c(cc3[nH]n2)O)C(=O)N(C)Cc4ccc(cc4)Cl  6EY9_C4N
+CN(Cc1ccc(cc1)Cl)C(=O)c2cc3c(cc2O)[nH]nc3Cc4ccccc4  6EY8_C4T
+Cc1cccc(c1)Cc2c3cc(c(cc3[nH]n2)O)C(=O)N(C)Cc4ccccc4  4EFU_EFU

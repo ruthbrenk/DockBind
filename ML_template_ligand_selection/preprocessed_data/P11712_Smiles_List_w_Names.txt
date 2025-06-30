@@ -1,0 +1,2 @@
+C[C@@](C(=O)Nc1ccc(cc1Cl)S(=O)(=O)c2cccc(c2)Br)(C(F)(F)F)O  4NZ2_2QJ
+c1cc(c(cc1S(=O)(=O)Nc2nccs2)C#N)Oc3ccc(cc3c4c[nH]nc4)Cl  5K7K_6RJ

@@ -1,0 +1,10 @@
+c1c(c2c([nH]1)C(=O)NC(=N2)N)CCCCC(F)(F)P(=O)(O)O  3FUC_9D9
+C[C@@H](Cn1cnc2c1nc(nc2N)N)OCP(=O)([O-])[O-]  1LVU_9PP
+Cc1cc2n(n1)C(=NC(=O)N2)N  2QPL_BTY
+c1nc2c(n1CCCCC(F)(F)P(=O)(O)O)N=C(NC2=O)N  1V48_HA1
+c1[nH]c2c(n1)N=CNC2=O  1VFN_HPA
+c1c(c2c([nH]1)C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  1B8N_IMG
+c1c(c2c([nH]1)c(ncn2)O)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  1B8O_IMH
+c1c(c2c([nH]1)C(=O)NC=N2)[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@H](O4)CP(=O)(O)O  2AI2_P1D
+c1nc2c(n1[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@H](O4)CP(=O)(O)O)N=C(NC2=O)N  2AI1_P1G
+c1nc2c(n1[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@@H](O4)P(=O)(O)O)N=C(NC2=O)N  2AI3_P2G

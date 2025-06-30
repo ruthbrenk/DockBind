@@ -1,0 +1,2 @@
+c1ccc(cc1)Nc2ccnc(n2)Nc3ccc(cc3)C(=O)O  3UNJ_0BX
+c1ccc(c(c1)Nc2ccnc(n2)Nc3ccc(cc3)C(=O)O)Cl  3UNK_0BY

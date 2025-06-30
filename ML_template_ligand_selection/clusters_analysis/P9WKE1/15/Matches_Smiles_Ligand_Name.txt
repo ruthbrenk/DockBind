@@ -1,0 +1,2 @@
+CCc1cc2c(c(n1)C)C(=C(C(=O)N2)C#N)c3ccc(cc3)NS(=O)(=O)C  4UNS_QZ3
+CCCc1cc2c(c(n1)C)C=CC(=O)N2  4UNP_TXW

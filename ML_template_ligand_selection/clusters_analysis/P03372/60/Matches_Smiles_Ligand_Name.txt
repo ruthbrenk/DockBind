@@ -1,0 +1,2 @@
+c1ccc(cc1)[N@@]2CCc3cc(ccc3[C@H]2c4ccc(cc4)[N@]5CC[N@@]6CCCC[C@H]6C5)O  1XQC_AEJ
+c1ccc(cc1)N2CCc3cc(ccc3[C@H]2c4ccc(cc4)OCCN5CCCCC5)O  1UOM_PTI

@@ -1,0 +1,2 @@
+CCc1c(c(nc(n1)N)N)c2ccc(cc2)Cl  1J3J_CP6
+CC1(N=C(N=C(N1OCCCOc2cc(c(cc2Cl)Cl)Cl)N)N)C  1J3K_WRA

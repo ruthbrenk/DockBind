@@ -1,0 +1,2 @@
+C[C@H]([C@@H]([C@@H](C#Cc1c(ccc2c1/C(=C/c3c(cc[nH]3)OC)/C(=O)N2)F)O)N)O  1R78_FMD
+COc1ccc2c(c1)/C(=C/c3cnc[nH]3)/C(=O)N2  3PY0_SU9

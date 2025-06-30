@@ -1,0 +1,8 @@
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4[nH]c5ccccc5n4)Cc6cccc(c6)C(=O)Nc7[nH]c8ccccc8n7)Cc9ccccc9)O)O  1BWB_146
+C=CCN1[C@@H]([C@@H]([C@H]([C@H](N(C1=O)CC=C)Cc2ccccc2)O)O)Cc3ccccc3  1HWR_216
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4nccs4)CC5CC5)Cc6ccccc6)O)O  1QBU_846
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3ccc(cc3)CO)Cc4ccc(cc4)CO)Cc5ccccc5)O)O  1QBS_DMP
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)N)Cc4cccc(c4)N)Cc5ccccc5)O)O  1DMP_DMQ
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=NC#N)N2Cc3ccc(cc3)CO)Cc4ccc(cc4)CO)Cc5ccccc5)O)O  1HVH_Q82
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3ccc4ccccc4c3)Cc5ccc6ccccc6c5)Cc7ccccc7)O)O  1HVR_XK2
+c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4nccs4)Cc5cccc(c5)C(=O)Nc6nccs6)Cc7ccccc7)O)O  1QBR_XV6

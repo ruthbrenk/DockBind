@@ -1,0 +1,5 @@
+Cc1cc(nc(n1)N)c2cc(c(cc2Cl)Cl)OC  3RLP_3RP
+c1c(c(cc(c1OCCN2CCOCC2)Cl)Cl)c3cc(nc(n3)N)Cl  2XHR_C0P
+Cc1cc(nc(n1)N)c2c(cccc2Cl)OCCCC(F)(F)F  3R4N_FU5
+CC(CNC(=O)N1Cc2c(nc(nc2c3c(cc(cc3Cl)Cl)OCCn4cccn4)N)C1)(F)F  3R4P_FU7
+COc1ccccc1c2cc(nc(n2)N)Cl  3R4M_WOE

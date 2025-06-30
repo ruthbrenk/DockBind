@@ -1,0 +1,2 @@
+CC[C@@H]([C@@H](C)O)Nc1nc(c2c(n1)n(cn2)C(C)C)NCc3cccnc3  5MHQ_8QT
+CC[C@H](CO)Nc1nc(c2c(n1)n(cn2)C(C)C)NCc3ccccc3  3DDQ_RRC

@@ -1,0 +1,3 @@
+COc1cc-2c(cc1OC)C(=O)n3c2cc4c3ccc(c4)O  3OX2_79X
+CC1=CC(=O)N(c2c1c(ccc2OC)OC)C  3GAM_MXX
+CN1c2c(ccc3c2OCO3)C(=CC1=O)OC  3G5M_XM5

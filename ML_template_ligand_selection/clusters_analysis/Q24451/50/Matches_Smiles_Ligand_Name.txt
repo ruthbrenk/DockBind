@@ -1,0 +1,6 @@
+CS[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)NCc2ccccc2  2F7P_2SK
+c1ccc(cc1)[C@H](CO)NC[C@@H]2[C@H]([C@H](CN2)O)O  2F18_GB1
+c1ccc(cc1)[C@@H](CO)NC[C@@H]2[C@H]([C@H](CN2)O)O  2F1A_GB2
+C[C@@H]1[C@@H]([C@@H]([C@H](N1)CN[C@@H](CO)c2ccccc2)O)O  2F1B_GB3
+c1ccc(cc1)[C@H](CO)NC[C@@H]2[C@H]([C@H](C(=O)N2)O)O  3DDF_GB6
+CN1[C@@H]([C@H]([C@H](C1=O)O)O)CN[C@@H](CO)c2ccccc2  3DDG_GB7

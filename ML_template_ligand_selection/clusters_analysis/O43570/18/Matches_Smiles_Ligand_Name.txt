@@ -1,0 +1,4 @@
+c1c(c(cc(c1S(=O)(=O)N)Cl)SC2CCCCC2)C(=O)NCCO  6R6Y_EA3
+c1c(c(cc(c1S(=O)(=O)N)Cl)NC2CCCCC2)C(=O)NCCO  6G5L_EM5
+c1ccc(cc1)CNc2cc(c(cc2C(=O)NCCO)S(=O)(=O)N)Cl  6G7A_EOQ
+c1ccc(cc1)S(=O)(=O)c2cc(c(cc2C(=O)NCCO)S(=O)(=O)N)Cl  6R71_JTW

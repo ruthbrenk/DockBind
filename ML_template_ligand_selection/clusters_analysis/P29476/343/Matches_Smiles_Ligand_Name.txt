@@ -1,0 +1,6 @@
+Cc1cc(nc(c1)N)c2ccc(cc2)CNCCc3cccc(c3)F  4D7O_0GD
+[H]/N=C(c1cccs1)/Nc2cccc(c2)CNCCc3cccc(c3)F  4KCN_5H3
+[H]/N=C(c1cccs1)/Nc2cccc(c2)CN(CC)CCc3cccc(c3)F  4KCO_5H4
+c1cc(cc(c1)F)CCNCc2ccc3ccc(nc3c2)N  4CAM_M87
+Cc1cc(nc(c1)N)COc2cccc(c2)CNCCc3cccc(c3)F  4JSI_Q05
+Cc1cc(nc(c1)N)COc2cc(cnc2)CNCCc3cccc(c3)F  4JSJ_QJ7

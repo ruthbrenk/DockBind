@@ -1,0 +1,2 @@
+c1cnc(nc1)Nc2cc(cc3c2cc(cc3)C(=N)N)C(=O)Nc4ccc(cc4)CN  1SQA_UI1
+c1cc2ccc(cc2c(c1)Nc3ncccn3)C(=N)N  1SQO_UI2

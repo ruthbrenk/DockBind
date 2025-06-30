@@ -1,0 +1,8 @@
+c1cc(cc(c1)c2c[nH]c3c2c(ncn3)N4CCOCC4)C#N  5OP5_3FE
+CCOC(=O)c1cnc2c(c1[N@]3CCO[C@@H](C3)CN)c(n[nH]2)c4cccc(c4)C#N  2YM4_4YM
+CCOC(=O)c1cnc2c(c1N3CCO[C@H](C3)CN)cn[nH]2  2YM3_YM3
+c1cc(cc(c1)c2c[nH]c3c2c(ncn3)N4CCO[C@H](C4)CN)CO  2YM5_YM5
+c1cncc2c1c3c([nH]2)ncnc3[N@]4CCO[C@@H](C4)CN  2YM6_YM6
+c1ccc(cc1)c2cnc3c(c2N4CCO[C@H](C4)CN)cn[nH]3  2WMX_ZY6
+c1[nH]c2c(n1)ncnc2N3CCO[C@H](C3)CN  2WMV_ZYV
+c1c2c(c(cnc2[nH]n1)Br)N3CCO[C@H](C3)CN  2WMW_ZYW

@@ -1,0 +1,7 @@
+Cluster number 37 has matched molecules:  3
+Cluster number 34 has matched molecules:  2
+Cluster number 39 has matched molecules:  4
+Cluster number 24 has matched molecules:  2
+Cluster number 25 has matched molecules:  3
+Cluster number 26 has matched molecules:  2
+Cluster number 27 has matched molecules:  2

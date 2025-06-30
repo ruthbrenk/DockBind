@@ -1,0 +1,9 @@
+CCCSc1c(c(c(c(c1F)F)S(=O)(=O)N)F)F  4WW6_3TV
+c1ccc2c(c1)CC[C@@H]2Nc3c(c(c(c(c3S(=O)(=O)N)F)F)SCCO)F  5DOH_5DU
+c1ccc2c(c1)CC[C@@H]2Nc3c(c(c(c(c3S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  5DRS_5EF
+c1(c(c(c(c(c1F)F)S(=O)(=O)N)F)F)F  6SD7_L7T
+C1CCCC(CCC1)Nc2c(c(c(c(c2S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4Q07_V14
+c1ccc(cc1)CCS(=O)(=O)c2c(c(c(c(c2F)F)S(=O)(=O)N)F)NCc3ccccc3  4QJM_V1F
+C1CCCC(CCC1)Nc2c(c(c(c(c2S(=O)(=O)N)F)F)SCCO)F  4Q08_V90
+c1ccc(cc1)CNc2c(c(c(c(c2S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4QTL_WWO
+c1ccc(cc1)[C@H]([C@H](c2ccccc2)O)Nc3c(c(c(c(c3S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4QIY_WWX

@@ -1,0 +1,6 @@
+CN1CCN(CC1)c2ccc(cc2)c3cc4c5cc(ncc5[nH]c4nc3)C(=O)O  4QYG_3DW
+CN1CCN(CC1)c2ccc(cc2)c3cc4c5cc(ncc5[nH]c4nc3)C#N  4QYH_3DX
+c1cc(ccc1CN2CCCCC2)c3cc4c5cc(ncc5[nH]c4nc3)C#N  4RVM_3X7
+CC(=O)Nc1cccc(c1)c2cc3c4cc(ncc4[nH]c3nc2)C#N  4RVK_3XK
+c1ccc(c(c1)c2cc3c4cc(ncc4[nH]c3nc2)C#N)O  4RVL_3XL
+CC(C)n1cc(nn1)c2cc(cnc2N)c3ccc(cc3)CN4CCOCC4  5OPR_A3E

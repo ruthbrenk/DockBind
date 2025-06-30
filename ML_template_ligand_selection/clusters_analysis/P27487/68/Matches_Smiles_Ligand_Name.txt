@@ -1,0 +1,5 @@
+Cc1c(c(c2c(n1)CN(C2=O)CC(=O)N(C)C)c3ccc(cc3Cl)Cl)CN  4JH0_1MD
+Cc1c(c(c2c(n1)CN(C2=O)CCOC)c3ccc(cc3Cl)Cl)CN  4LKO_1WH
+COc1cc(cc(c1)OC)c2nc(c(c(n2)N)CN)c3ccc(cc3Cl)Cl  1RWQ_5AP
+Cc1c(c(n2cc(nc2n1)C(=O)N3CCOCC3)c4ccc(cc4Cl)Cl)CN  3NOX_6A5
+Cc1c(c(c2c(n1)C(=O)N(C2)CCOC)c3ccc(cc3Cl)Cl)CN  3SWW_KXB

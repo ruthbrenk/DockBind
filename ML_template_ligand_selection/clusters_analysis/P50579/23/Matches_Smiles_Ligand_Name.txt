@@ -1,0 +1,2 @@
+Cc1ccc(cc1)NNC(=O)[C@H]([C@@H](CC2CCCCC2)N)O  1R5H_AO2
+CC(C)SCC[C@H]([C@@H](C(=O)NNC(=O)c1cccc(c1)Cl)O)N  1R58_AO5

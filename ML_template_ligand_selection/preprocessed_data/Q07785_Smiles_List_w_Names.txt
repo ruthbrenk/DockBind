@@ -1,0 +1,2 @@
+c1ccc2c(c1)C(=O)/C(=C/3c4cc(ccc4NC3=O)S(=O)(=O)O)/N2  1V0O_INR
+CC(C)[C@H](CO)Nc1nc(c2c(n1)n(cn2)C(C)C)Nc3ccc(c(c3)Cl)C(=O)O  1V0P_PVB

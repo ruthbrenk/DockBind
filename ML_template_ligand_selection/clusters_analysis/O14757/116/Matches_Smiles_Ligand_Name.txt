@@ -1,0 +1,3 @@
+Cc1c(c([nH]n1)c2[nH]c3ccc(cc3n2)C(C)C)C(=O)NC4CCN(CC4)C  3NLB_5BE
+c1cc(ccc1c2ccc(cc2)O)c3c4c([nH]n3)-c5ccc(cc5C4)C(=O)NC6CCC(CC6)O  2E9N_76A
+CC1CCC(CC1)NCc2ccc-3c(c2)Cc4c3[nH]nc4c5ccc(cc5)C(=O)O  2E9O_A58

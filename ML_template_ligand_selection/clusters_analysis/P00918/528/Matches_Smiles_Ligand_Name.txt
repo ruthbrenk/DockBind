@@ -1,0 +1,4 @@
+COc1ccc(c(c1)OC)[C@@H]2C(=O)NC(=O)O2  5TY9_7QV
+COc1ccc(c(c1)OC)C[C@@H]2C(=O)NC(=S)S2  5U0F_7R1
+COc1ccc(c(c1)OC)[C@@H]2C(=O)NC(=S)O2  5U0D_7R7
+COc1ccc(c(c1)OC)C[C@@]2(C(=O)NC(=S)N2)O  5VGY_9AA

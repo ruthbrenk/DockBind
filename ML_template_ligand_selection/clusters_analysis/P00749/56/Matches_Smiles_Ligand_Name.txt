@@ -1,0 +1,6 @@
+c1ccc(cc1)CS(=O)(=O)N[C@H](CO)C(=O)NCC(=O)NCc2ccc(cc2)C(=N)N  1SC8_2IN
+c1ccc(cc1)COC[C@@H](C(=O)NCc2ccc(cc2)C(=N)N)NC(=O)[C@@H](CO)NS(=O)(=O)Cc3ccccc3  1VJ9_5IN
+c1ccc(cc1)CS(=O)(=O)N[C@H](CO)C(=O)N[C@@H](CO)C(=O)NCc2ccc(cc2)C(=N)N  1VJA_7IN
+[H]/N=C(c1ccc(cc1)CNC(=O)[C@H](C)NC(=O)[C@@H](CO)NS(=O)(=O)CCCC)/N  1W0Z_SI1
+[H]/N=C(c1ccc(cc1)CNC(=O)[C@H](C)NC(=O)[C@@H](CO)NS(=O)(=O)Cc2ccccc2)/N  1W11_SK1
+[H]/N=C(/N)Nc1ccc(cc1)CNC(=O)[C@H](C)NC(=O)[C@@H](CO)NS(=O)(=O)Cc2ccccc2  1W13_SM1

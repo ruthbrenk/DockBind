@@ -1,0 +1,2 @@
+Cn1ccc2c1c(ncn2)Oc3ccc(c(c3)F)NC(=O)Nc4cccc(c4)C(F)(F)F  3VHE_42Q
+COC(=O)Nc1[nH]c2ccc(cc2n1)Oc3ccc(cc3)NC(=O)Nc4cc(ccc4F)C(F)(F)F  2OH4_GIG

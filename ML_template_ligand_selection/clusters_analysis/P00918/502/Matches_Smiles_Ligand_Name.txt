@@ -1,0 +1,2 @@
+Cc1ncc(o1)c2ccc(cc2)S(=O)(=O)N  5NEA_8V8
+Cc1c(c(no1)c2ccccc2)c3ccc(cc3)S(=O)(=O)N  2AW1_COX

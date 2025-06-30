@@ -1,0 +1,2 @@
+c1c(c2c([nH]1)C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  1B8N_IMG
+c1c(c2c([nH]1)c(ncn2)O)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  1B8O_IMH

@@ -1,0 +1,4 @@
+c1ccc(cc1)C[C@@H]([C@@H](CNS(=O)(=O)c2ccc3ccccc3c2)O)N  2C8Y_C3M
+Cc1cc(c(c(c1S(=O)(=O)NC[C@H]([C@H](Cc2ccccc2)N)O)C)C)OC  2C93_C4M
+Cc1cc(c(c(c1S(=O)(=O)NC[C@H]([C@H](Cc2ccccc2)NCc3cccc(c3)Cl)O)C)C)OC  2C8X_C5M
+COc1ccc(cc1)S(=O)(=O)NC[C@H]([C@H](Cc2ccccc2)[NH2+]Cc3cc(ccc3N4C=NNN4)Cl)O  2C8W_C7M

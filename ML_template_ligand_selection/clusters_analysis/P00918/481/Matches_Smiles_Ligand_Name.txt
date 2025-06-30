@@ -1,0 +1,13 @@
+c1ccc2c(c1)CCCN2C(=O)c3ccc(cc3)S(=O)(=O)N  4Z0Q_4K9
+c1cc(ccc1C(=O)N2CCc3cc(c(cc3C2)O)O)S(=O)(=O)N  4Z1K_4KB
+c1ccc2c(c1)CCN(C2)C(=O)c3ccc(cc3)S(=O)(=O)N  4Z1J_4KC
+c1ccc(cc1)[C@@H]2c3cc(c(cc3CCN2C(=O)c4ccc(cc4)S(=O)(=O)N)O)O  5N0D_8F2
+c1ccc(cc1)[C@H]2c3cc(c(cc3CCN2C(=O)c4ccc(cc4)S(=O)(=O)N)O)O  5N0E_8F3
+c1ccc(cc1)C2CCN(CC2)C(=O)c3ccc(cc3)S(=O)(=O)N  6H2Z_FKE
+c1cc(ccc1CN2CCN(CC2)C(=O)c3ccc(cc3)S(=O)(=O)N)F  6H34_FKK
+c1ccc(cc1)C2(CCN(CC2)C(=O)c3ccc(cc3)S(=O)(=O)N)O  6H33_FKQ
+c1ccc(cc1)C[C@@H]2CNCCN2C(=O)c3ccc(cc3)S(=O)(=O)N  6RG3_K1W
+CN1CCN(C[C@@H]1Cc2ccccc2)C(=O)c3ccc(cc3)S(=O)(=O)N  6RG4_K45
+c1ccc(cc1)CN2CCN(C2)C(=O)c3ccc(cc3)S(=O)(=O)N  6RHK_K4B
+c1ccc(cc1)CN2CCCN(CC2)C(=O)c3ccc(cc3)S(=O)(=O)N  6RHJ_K4H
+c1ccc(cc1)C(=O)N2CCN(CC2)C(=O)c3ccc(cc3)S(=O)(=O)N  6XXT_O42

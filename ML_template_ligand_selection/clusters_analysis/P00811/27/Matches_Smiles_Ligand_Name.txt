@@ -1,0 +1,2 @@
+B([C@H](c1cccc(c1)C(=O)O)NC(=O)Cc2cccs2)(O)O  1PI5_SM2
+B([C@H](c1ccccc1)NC(=O)Cc2cccs2)(O)O  1PI4_SM3

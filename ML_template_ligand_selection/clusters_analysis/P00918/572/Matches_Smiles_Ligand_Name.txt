@@ -1,0 +1,4 @@
+c1ccc2c(c1)C(=CS2(=O)=O)CNS(=O)(=O)N  5FDI_5WM
+c1ccc2c(c1)c(cs2)CNS(=O)(=O)N  5FDC_5WN
+COc1cc2c(cc1OC)C[N@@](CC2)S(=O)(=O)N  3IGP_DT7
+CC#CCOc1ccc(cc1)CNS(=O)(=O)N  4PQ7_IL3

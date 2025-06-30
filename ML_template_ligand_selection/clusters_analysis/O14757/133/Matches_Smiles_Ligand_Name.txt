@@ -1,0 +1,7 @@
+c1nc(c2c(n1)nc([nH]2)SCC(=O)N)N  2CGX_3D3
+c1ccc(cc1)c2c3c([nH]c2c4ccccc4)ncnc3NC[C@H](CO)O  2BRO_DF2
+c1ccc(cc1)c2c3c(ncnc3oc2c4ccccc4)NCC(=O)O  2BRH_DFW
+CN(CCO)c1c2c(c(oc2ncn1)c3ccccc3)c4ccccc4  2BRG_DFY
+c1ccc(cc1)c2c3c([nH]c2c4ccccc4)ncnc3NCCO  2BRM_DFZ
+COc1ccc(cc1)c2c3c(ncnc3oc2c4ccc(cc4)OC)NCCO  2BR1_PFP
+c1ccc(cc1)c2c3c(ncnc3oc2c4ccccc4)NCCO  2BRB_PFQ

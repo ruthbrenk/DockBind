@@ -1,0 +1,6 @@
+c1cc2c(cc1S(=O)(=O)N3CCSCC3)CN[C@H](C2)CF  2G72_F21
+c1cc(ccc1NS(=O)(=O)c2ccc3c(c2)CN[C@H](C3)CO)Cl  2G8N_F83
+c1cc2c(cc1S(=O)(=O)NCCC(F)(F)F)CN[C@H](C2)CF  2G71_FTS
+c1cc2c(cc1[N+](=O)[O-])CN[C@H](C2)CO  2G70_HNT
+c1cc(c(c2c1CCNC2)Cl)Cl  1YZ3_SKA
+c1cc2c(cc1S(=O)(=O)N)CNCC2  1HNN_SKF

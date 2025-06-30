@@ -1,0 +1,2 @@
+C=CNC(=O)N1CCc2c(sc(c2C(=O)OC=C)NC(=O)Cc3ccccc3)C1  3SL4_JN4
+CCNC(=O)N1CCc2c(sc(c2C(=O)OC3CCCC3)NC(=O)Cc4cccs4)C1  3SL6_JN8

@@ -1,0 +1,2 @@
+c1cc2c(cc1C[C@@H]([C@H](Cc3ccc4c(c3)OCO4)C(=O)O)C(=O)O)OCO2  1JJT_BDS
+c1ccc(cc1)C[C@@H]([C@H](Cc2ccc3c(c2)OCO3)C(=O)O)C(=O)O  1JJE_BYS

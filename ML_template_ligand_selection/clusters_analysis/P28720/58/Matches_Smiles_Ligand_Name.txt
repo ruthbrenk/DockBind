@@ -1,0 +1,2 @@
+c1cc2c(cc1N)C(=O)NNC2=O  1ENU_APZ
+c1c(cc(c2c1C(=O)NNC2=O)N)N  1F3E_DPZ

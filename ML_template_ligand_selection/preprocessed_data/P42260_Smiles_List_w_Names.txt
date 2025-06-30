@@ -1,0 +1,3 @@
+C(CC(=O)O)[C@@H](C(=O)O)N  1S50_GLU
+CC(=C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O  1TT1_KAI
+C([C@@H](C(=O)O)N)N1C(=O)NC(=O)O1  1S9T_QUS

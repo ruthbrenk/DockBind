@@ -1,0 +1,7 @@
+CCCC(CCC)C(=O)N[C@@H]1Cc2ccc(cc2C1)S(=O)(=O)N  2QO8_3CC
+CC(C)NC[C@H](COc1ccc(cc1)C(=O)NCCc2ccc(cc2)S(=O)(=O)N)O  5WLV_42G
+c1cc(ccc1CCNC(=O)Nc2ccc(cc2)Cl)S(=O)(=O)N  5NY3_9E8
+c1cc(ccc1CCNC(=O)Cn2cnc3c2ncnc3N)S(=O)(=O)N  6B5A_CQS
+CC(=O)NCCc1ccc(cc1)S(=O)(=O)N  2NNS_M25
+c1cc(ccc1CCNC(=O)Cc2ccc(c(c2)Cl)O)S(=O)(=O)N  3NB5_R21
+CCCCNCC(=O)NCCc1ccc(cc1)S(=O)(=O)N  5EKJ_TG4

@@ -1,0 +1,14 @@
+Cc1cc(nc(n1)SCC(=O)c2ccc(c(c2)Cl)S(=O)(=O)N)C  4KNI_E1E
+c1cnc(nc1)SCC(=O)c2ccc(c(c2)Cl)S(=O)(=O)N  4KNJ_E1F
+c1ccc2c(c1)c3c(cn2)nc([nH]3)SCC(=O)c4ccc(c(c4)S(=O)(=O)N)Cl  3MYQ_E27
+CCCCc1cnc(nc1)SCC(=O)c2ccc(cc2)S(=O)(=O)N  3SAP_E2I
+c1cc(c(cc1C(=O)CSc2[nH]c3cc4c(cc3n2)OCCO4)S(=O)(=O)N)Cl  3M67_E36
+c1cc(c(cc1C(=O)CSc2[nH]c3ccc(cc3n2)Br)S(=O)(=O)N)Cl  3M96_E38
+Cc1cc(nc(n1)SCC(=O)c2ccc(c(c2)S(=O)(=O)N)Cl)C  3S9T_E49
+CCc1cnc(nc1)SCC(=O)c2ccc(c(c2)S(=O)(=O)N)Cl  3SAX_E50
+CC1=CC(=O)NC(=N1)SCC(=O)c2ccc(cc2)S(=O)(=O)N  3S8X_E59
+Cc1cc(nc(n1)SCC(=O)c2ccc(cc2)S(=O)(=O)N)C  3SBH_E65
+c1cnc(nc1)SCC(=O)c2ccc(cc2)S(=O)(=O)N  3SBI_E90
+CC1=CC(=O)NC(=N1)SCC(=O)c2ccc(c(c2)Cl)S(=O)(=O)N  4QSA_EWW
+CC1=CC(=O)NC(=N1)SCC(=O)c2cccc(c2)S(=O)(=O)N  4QSB_EWY
+CC(C)(C)C1=CC(=O)NC(=N1)SCC(=O)c2ccc(c(c2)S(=O)(=O)N)Cl  4QSI_EWZ

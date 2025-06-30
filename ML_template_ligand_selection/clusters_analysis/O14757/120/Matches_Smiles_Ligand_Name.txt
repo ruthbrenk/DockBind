@@ -1,0 +1,3 @@
+COC(=O)c1cnc(cc1NC[C@H]2CNCCO2)Nc3cnc(cn3)C#N  5F4N_5UY
+c1c(ncnc1Nc2cnc(cn2)C#N)NCC3CCNCC3  2YM7_YM7
+C[C@H](CN(C)C)Oc1c(ncc(n1)Nc2cc3cccc(c3cn2)Cl)C#N  2YM8_YM8

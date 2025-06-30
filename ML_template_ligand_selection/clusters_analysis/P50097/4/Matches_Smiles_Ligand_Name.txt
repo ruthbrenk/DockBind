@@ -1,0 +1,3 @@
+c1[nH+]c(c(n1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)([O-])[O-])O)O)[O-])C(=O)N  1PVN_MZP
+c1nc(nn1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O)C(=O)N  1ME8_RVP
+c1c(nc(s1)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(C[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O)O)C(=O)N  1LRT_TAD

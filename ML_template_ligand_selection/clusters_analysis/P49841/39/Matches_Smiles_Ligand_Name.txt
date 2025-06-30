@@ -1,0 +1,4 @@
+c1cnc(nc1c2cc3c([nH]2)[C@H](CNC3=O)CCF)N  3DU8_553
+c1cnccc1c2cc3c(o2)C=CNC3=O  3ZRK_ZRK
+c1cnccc1c2cc3c(s2)C(=CNC3=O)Br  3ZRL_ZRL
+c1cc(ccc1C2=CNC(=O)c3c2sc(c3)c4ccncc4)O  3ZRM_ZRM

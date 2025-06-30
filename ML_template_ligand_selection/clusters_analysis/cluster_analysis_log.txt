@@ -1,0 +1,217 @@
+Starting with uniprot: O14757
+O14757: done successfully 
+ 
+Starting with uniprot: O43570
+O43570: done successfully 
+ 
+Starting with uniprot: O76074
+O76074: done successfully 
+ 
+Starting with uniprot: P00183
+P00183: done successfully 
+ 
+Starting with uniprot: P00374
+P00374: done successfully 
+ 
+Starting with uniprot: P00520
+P00520: done successfully 
+ 
+Starting with uniprot: P00734
+P00734: done successfully 
+ 
+Starting with uniprot: P00742
+P00742: done successfully 
+ 
+Starting with uniprot: P00749
+P00749: done successfully 
+ 
+Starting with uniprot: P00811
+P00811: done successfully 
+ 
+Starting with uniprot: P00918
+P00918: done successfully 
+ 
+Starting with uniprot: P00929
+P00929: done successfully 
+ 
+Starting with uniprot: P02766
+P02766: done successfully 
+ 
+Starting with uniprot: P03176
+P03176: done successfully 
+ 
+Starting with uniprot: P03369
+P03369: done successfully 
+ 
+Starting with uniprot: P03372
+P03372: done successfully 
+ 
+Starting with uniprot: P03472
+P03472: done successfully 
+ 
+Starting with uniprot: P03474
+P03474: done successfully 
+ 
+Starting with uniprot: P04035
+P04035: done successfully 
+ 
+Starting with uniprot: P04058
+P04058: done successfully 
+ 
+Starting with uniprot: P04150
+P04150: done successfully 
+ 
+Starting with uniprot: P04585
+P04585: done successfully 
+ 
+Starting with uniprot: P06401
+P06401: done successfully 
+ 
+Starting with uniprot: P06875
+P06875: done successfully 
+ 
+Starting with uniprot: P07342
+P07342: done successfully 
+ 
+Starting with uniprot: P07900
+P07900: done successfully 
+ 
+Starting with uniprot: P08473
+P08473: done successfully 
+ 
+Starting with uniprot: P08709
+P08709: done successfully 
+ 
+Starting with uniprot: P10275
+P10275: done successfully 
+ 
+Starting with uniprot: P10721
+P10721: done successfully 
+ 
+Starting with uniprot: P10828
+P10828: done successfully 
+ 
+Starting with uniprot: P11086
+P11086: done successfully 
+ 
+Starting with uniprot: P11712
+P11712: done successfully 
+ 
+Starting with uniprot: P13922
+P13922: done successfully 
+ 
+Starting with uniprot: P14780
+P14780: done successfully 
+ 
+Starting with uniprot: P15090
+P15090: done successfully 
+ 
+Starting with uniprot: P15121
+P15121: done successfully 
+ 
+Starting with uniprot: P15917
+P15917: done successfully 
+ 
+Starting with uniprot: P16083
+P16083: done successfully 
+ 
+Starting with uniprot: P19971
+P19971: done successfully 
+ 
+Starting with uniprot: P20231
+P20231: done successfully 
+ 
+Starting with uniprot: P22906
+P22906: done successfully 
+ 
+Starting with uniprot: P24941
+P24941: done successfully 
+ 
+Starting with uniprot: P26281
+P26281: done successfully 
+ 
+Starting with uniprot: P27487
+P27487: done successfully 
+ 
+Starting with uniprot: P27707
+P27707: done successfully 
+ 
+Starting with uniprot: P28720
+P28720: done successfully 
+ 
+Starting with uniprot: P29476
+P29476: done successfully 
+ 
+Starting with uniprot: P35557
+P35557: done successfully 
+ 
+Starting with uniprot: P35968
+P35968: done successfully 
+ 
+Starting with uniprot: P42260
+P42260: done successfully 
+ 
+Starting with uniprot: P47811
+P47811: done successfully 
+ 
+Starting with uniprot: P49354
+P49354: done successfully 
+ 
+Starting with uniprot: P49841
+P49841: done successfully 
+ 
+Starting with uniprot: P50097
+P50097: done successfully 
+ 
+Starting with uniprot: P50579
+P50579: done successfully 
+ 
+Starting with uniprot: P53779
+P53779: done successfully 
+ 
+Starting with uniprot: P55859
+P55859: done successfully 
+ 
+Starting with uniprot: P56658
+P56658: done successfully 
+ 
+Starting with uniprot: P9WIL5
+P9WIL5: done successfully 
+ 
+Starting with uniprot: P9WKE1
+P9WKE1: done successfully 
+ 
+Starting with uniprot: Q00535
+Q00535: done successfully 
+ 
+Starting with uniprot: Q07343
+Q07343: done successfully 
+ 
+Starting with uniprot: Q07785
+Q07785: done successfully 
+ 
+Starting with uniprot: Q07912
+Q07912: done successfully 
+ 
+Starting with uniprot: Q08499
+Q08499: done successfully 
+ 
+Starting with uniprot: Q24451
+Q24451: done successfully 
+ 
+Starting with uniprot: Q54276
+Q54276: done successfully 
+ 
+Starting with uniprot: Q79MP6
+Q79MP6: done successfully 
+ 
+Starting with uniprot: Q8I3X4
+Q8I3X4: done successfully 
+ 
+Starting with uniprot: Q9GPQ4
+Q9GPQ4: done successfully 
+ 
+
+
+
+TIME TAKEN: 00:03:37

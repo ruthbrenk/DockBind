@@ -1,0 +1,3 @@
+Cc1ccc2cc1-c3cc(nc(n3)N)Sc4cccc(c4)OCCCCO2  3VHA_VHA
+Cc1cc(c2cc1-c3cc(nc(n3)N)Sc4cccc(c4)OCCCNC2=O)C  3VHC_VHC
+Cc1cc(c2cc1-c3cc(nc(n3)N)SCCC(=O)NCCCNC2=O)C  3VHD_VHE

@@ -1,0 +1,7 @@
+CCC(CC)n1ccc2c1ccc3c2c(nc(n3)N)N  1AOE_GW3
+COc1ccc(cc1)Oc2cccc3c2c(nc(n3)N)N  1M79_MQ1
+COCC(COC)n1ccc2c1ccc3c2c(nc(n3)N)N  1M7A_MQU
+c1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA1_TQ3
+Cc1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA2_TQ4
+CC(C)(C)c1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA3_TQ5
+c1cc2c(c(c1)Sc3ccc(cc3)N4CCOCC4)c(nc(n2)N)N  1IA4_TQ6

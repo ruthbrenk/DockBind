@@ -1,0 +1,2 @@
+c1cc(c(cc1Cl)Cl)/C=C/C(=O)O  5EHW_5OO
+CC(C)C[C@@H](c1cc(c(cc1OC)O)/C=CC(=O)O)O  3F8E_TE1

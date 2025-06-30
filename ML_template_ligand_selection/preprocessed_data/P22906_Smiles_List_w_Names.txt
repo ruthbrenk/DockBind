@@ -1,0 +1,13 @@
+Cc1c(c(nc(n1)N)N)C#C[C@H](C)c2cc(c(cc2OC)c3ccccc3)OC  4HOE_18G
+Cc1c(c(nc(n1)N)N)C#C[C@H](C)c2ccc(cc2OC)c3ccccc3  4HOF_18H
+Cc1ccc(cc1)c2cc(cc(c2)OC)[C@@H](C)C#Cc3c(nc(nc3N)N)C  4H97_53S
+Cc1c(c(nc(n1)N)N)C#CC(C)(C)c2cc(c(c(c2)OC)OC)OC  3QLS_55V
+CCC(CC)n1ccc2c1ccc3c2c(nc(n3)N)N  1AOE_GW3
+COc1ccc(cc1)Oc2cccc3c2c(nc(n3)N)N  1M79_MQ1
+COCC(COC)n1ccc2c1ccc3c2c(nc(n3)N)N  1M7A_MQU
+CCc1c(c(nc(n1)N)N)C#CCc2cc(ccc2OC)OC  3QLW_N22
+CC[C@@H](C#Cc1c(nc(nc1N)N)C)c2cc(c(c(c2)OC)OC)OC  3QLR_QLR
+c1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA1_TQ3
+Cc1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA2_TQ4
+CC(C)(C)c1ccc(cc1)Sc2cccc3c2c(nc(n3)N)N  1IA3_TQ5
+c1cc2c(c(c1)Sc3ccc(cc3)N4CCOCC4)c(nc(n2)N)N  1IA4_TQ6

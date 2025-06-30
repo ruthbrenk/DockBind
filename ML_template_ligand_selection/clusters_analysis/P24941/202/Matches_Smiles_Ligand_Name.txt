@@ -1,0 +1,13 @@
+CC1=C(SC(=O)N1C)c2ccnc(n2)Nc3ccc(cc3)S(=O)(=O)NCCOC  2XMY_CDK
+Cc1c(sc(n1)C)c2ccnc(n2)N  2C5O_CK2
+Cc1c(sc(n1)NC)c2ccnc(n2)Nc3ccc(cc3)O  1PXN_CK6
+Cc1c(sc(n1)C)c2ccnc(n2)Nc3ccc(cc3)N(C)C  2C5N_CK8
+Cc1c(n2ccccc2n1)c3ccnc(n3)NC(=O)C  1OIQ_HDU
+Cc1c(n2ccccc2n1)c3ccnc(n3)Nc4ccc(cc4)OC[C@H](CN(C)C)O  1OIR_HDY
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)N4CCCNCC4)C#N  4BCP_T3C
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)S(=O)(=O)N)C#N  4BCK_T3E
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)N4CCCN(CC4)C(=O)C)C#N  4BCO_T6Q
+Cc1ccc(cc1S(=O)(=O)N2CCOCC2)Nc3ncc(c(n3)C4=C(NC(=NC)S4)C)C#N  4BCM_T7Z
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)O)C#N  4BCN_T9N
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)C(=O)N4CCOCC4)C#N  4BCQ_TJF
+CC1=C(SC(=O)N1C)c2ccnc(n2)N=C3CC=C(C=C3)N4CCNCC4  2XNB_Y8L

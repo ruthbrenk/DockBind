@@ -1,0 +1,2 @@
+c1ccc(c(c1)N2C[C@H](CC2=O)C(=O)O)O  3GVB_3GV
+CC(=O)c1ccc(cc1)N2C[C@H](CC2=O)C(=O)O  3GQZ_GF7

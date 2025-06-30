@@ -1,0 +1,13 @@
+c1ccc(cc1)c2cc(n3c(n2)c(cn3)CO)NCc4cccnc4  2R3O_2SC
+c1cc(c(c(c1)Cl)Cl)c2cc(n3c(n2)c(cn3)SC#N)NCc4ccncc4  2R3P_3SC
+c1cc(cc(c1)Br)c2cc([n+]3c(n2)cc[nH]3)NCc4ccncc4  2C68_CT6
+c1cc(cc(c1)Br)c2cc([n+]3c(n2)nc[nH]3)NCc4ccncc4  2C69_CT8
+CC(C)c1cnn2c1nc(cc2NCc3ccccc3)NC[C@H]4CCNC[C@@H]4O  5JQ5_I74
+CC(C)c1cnn2c1nc(cc2NCc3ccccc3)N[C@@H](CO)[C@@H](CO)O  3NS9_NS9
+c1cc(c(c(c1)Cl)Cl)c2cc(n3c(n2)ccn3)NCc4ccncc4  2R3F_SC8
+c1ccc(c(c1)c2cc(n3c(n2)ccn3)NCc4ccncc4)F  2R3I_SCF
+c1ccc(cc1)c2cc(n3c(n2)c(cn3)Br)NCc4cccnc4  2R3J_SCJ
+c1ccc(cc1)c2cc3c(cnn3c(c2)NCc4cncnc4)Br  2R3K_SCQ
+c1ccc(cc1)c2cc(c3ncc(n3c2)Br)NCc4cncnc4  2R3L_SCW
+CCc1cnn2c1nc(cc2NCc3cnc(nc3)N)c4c(cccc4F)F  2R3M_SCX
+c1ccc(cc1)c2cc(n3c(n2)c(cn3)C4CC4)NCc5cccnc5  2R3N_SCZ

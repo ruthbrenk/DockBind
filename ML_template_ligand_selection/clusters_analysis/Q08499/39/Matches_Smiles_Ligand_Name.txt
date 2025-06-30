@@ -1,0 +1,2 @@
+c1cc(c[n+](c1)[O-])C[C@@H](c2ccc(c(c2)OC3CC3)OC(F)F)c4ncc(s4)C(C(F)(F)F)(C(F)(F)F)O  2FM0_M98
+c1cc(c[n+](c1)[O-])C[C@H](c2ccc(c(c2)OC3CC3)OC(F)F)c4ncc(s4)C(C(F)(F)F)(C(F)(F)F)O  2FM5_M99

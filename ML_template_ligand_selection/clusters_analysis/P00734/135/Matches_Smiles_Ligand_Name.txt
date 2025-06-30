@@ -1,0 +1,2 @@
+CC(C)N1CCC(CC1)C(=O)Nc2c(cccc2OCc3cc(on3)c4ccc(s4)Cl)OCCCO[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O  6EO8_2FN
+CC(C)N1CCC(CC1)C(=O)Nc2c(cccc2OCc3cc(on3)c4ccc(s4)Cl)OCCCO[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C  6EO9_2OJ

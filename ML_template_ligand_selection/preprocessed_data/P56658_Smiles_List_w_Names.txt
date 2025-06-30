@@ -1,0 +1,10 @@
+c1ccc2c(c1)[nH]c(n2)NCc3ccc(s3)c4csc(n4)N=C(N)N  1NDV_FR0
+c1ccc(cc1)CC[C@H](CO)n2cc(nc2)C(=O)N  1NDW_FR2
+c1ccc2c(c1)cccc2CC[C@H](CO)n3cc(nc3)C(=O)N  1NDY_FR3
+c1ccc(cc1)CCC(=O)Nc2ccc3ccn(c3c2)CC[C@H](CO)n4cc(nc4)C(=O)N  1UML_FR4
+Cn1c2ccccc2nc1CCC(=O)Nc3ccc4ccn(c4c3)CC[C@H](CO)n5cc(nc5)C(=O)N  1NDZ_FR5
+C[C@@H]([C@@H](CCc1cccc2c1cccc2)n3cc(nc3)C(=O)N)O  2E1W_FR6
+C[C@@H]([C@@H](CCc1cccc(c1Cl)Cl)n2cc(nc2)C(=O)N)O  1V79_FR7
+c1ccc(cc1)CCCCC(=O)Nc2ccc3ccn(c3c2)CC[C@H](CO)n4cc(nc4)C(=O)N  1QXL_FR8
+c1ccc(cc1)CNC(=O)Nc2ccc3ccn(c3c2)CC[C@H](CO)n4cc(nc4)C(=O)N  1O5R_FR9
+C[C@@H]([C@@H](CCOc1ccc2ccccc2c1)n3cc(nc3)C(=O)N)O  1V7A_FRC

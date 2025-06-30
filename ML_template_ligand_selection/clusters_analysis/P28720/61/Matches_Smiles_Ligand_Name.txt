@@ -1,0 +1,4 @@
+c1cnc([nH]1)SCc2cc(cc3c2N=C(NC3=O)N)N  1K4G_AIQ
+CCCSCc1cc(cc2c1N=C(NC2=O)N)N  1K4H_APQ
+CN(C)CCSCc1cc(cc2c1N=C(NC2=O)N)N  1Q65_BHB
+c1ccc(cc1)SCc2cc(cc3c2N=C(NC3=O)N)CN  1Q66_KMB

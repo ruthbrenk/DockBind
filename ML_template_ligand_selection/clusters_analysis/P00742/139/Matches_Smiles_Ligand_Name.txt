@@ -1,0 +1,3 @@
+C[C@H]([C@@H](Cc1cccc(c1)C(=[NH2+])N)C(=O)OC)NC(=O)c2ccc(cc2)c3cc[n+](cc3)[O-]  1KSN_FXV
+C[C@H]([C@@H](Cc1cccc(c1)C(=N)N)C(=O)OC)NC(=O)c2ccc(cc2)c3cccc(c3)CN  1EZQ_RPR
+c1ccc(cc1)CCNC(=O)[C@@H](Cc2cccc(c2)C(=N)N)NC(=O)NC34CC5CC(C3)CC(C5)C4  3LIW_RUP

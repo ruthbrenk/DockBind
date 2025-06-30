@@ -1,0 +1,4 @@
+C[C@@H]([C@@H](c1ccc(nc1)OC)Oc2ccc3c(c2)cnn3c4ccc(cc4)F)NC(=O)C5CC5  6EL6_B9Q
+CC(C)[C@@H]([C@@H](c1ccccc1)Oc2ccc3c(c2)cnn3C4=CN(C(=O)C=C4)C)NC(=O)C(C)(F)F  6EL9_B9W
+Cc1cc(c(c(c1)C)S(=O)(=O)N[C@@H](C)CNc2cccc3c2cnn3c4ccc(cc4)F)C  4CSJ_NN7
+C[C@@H]([C@@H](c1ccccc1)Oc2ccc3c(c2)cnn3c4ccc(cc4)F)NC(=O)C(F)(F)F  5G5W_R8C

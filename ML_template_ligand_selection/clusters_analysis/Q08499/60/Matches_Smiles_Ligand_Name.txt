@@ -1,0 +1,5 @@
+CCOC(=O)c1c([nH+]n(c1C)c2ccccc2)C  1Y2C_3DE
+CCOC(=O)c1c(nn(c1C)c2ccc(cc2)OC)C  1Y2D_4DE
+CCOC(=O)c1c(nn(c1C)c2ccc(cc2)N)C  1Y2E_5DE
+CCOC(=O)c1c(nn(c1C)c2cccc(c2)[N+](=O)[O-])C  1Y2K_7DE
+CCOC(=O)c1c([nH]nc1C)C  1Y2B_DEE

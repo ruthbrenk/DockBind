@@ -1,0 +1,10 @@
+Cluster number 379 has matched molecules:  5
+Cluster number 380 has matched molecules:  12
+Cluster number 344 has matched molecules:  2
+Cluster number 366 has matched molecules:  10
+Cluster number 355 has matched molecules:  11
+Cluster number 393 has matched molecules:  49
+Cluster number 382 has matched molecules:  10
+Cluster number 383 has matched molecules:  60
+Cluster number 343 has matched molecules:  6
+Cluster number 384 has matched molecules:  37

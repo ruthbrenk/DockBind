@@ -1,0 +1,2 @@
+CCCC(CCC)C(=O)N[C@@H]1Cc2ccc(cc2C1)S(=O)(=O)N  2QO8_3CC
+c1cc2c(cc1S(=O)(=O)N)CCC2  2QOA_MAJ

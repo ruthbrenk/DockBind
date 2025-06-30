@@ -1,0 +1,12 @@
+CNc1[nH]c2cc3c(c(c2n1)CC[C@@H]4[C@H]([C@H]([C@@H](O4)OC)O)OC)N=C(NC3=O)N  4KWO_1UD
+CNc1[nH]c2cc3c(c(c2n1)CC[C@@H]4[C@H]([C@H]([C@@H](O4)OC)OC)O)N=C(NC3=O)N  4LBU_1WJ
+CNc1[nH]c2cc3c(c(c2n1)CC[C@@H]4[C@H]([C@H]([C@@H](O4)OC)O)O)N=C(NC3=O)N  4LEQ_1WK
+CNc1[nH]c2c(n1)cc3c(c2CCN)N=C(NC3=O)N  3GC5_2MQ
+CNc1[nH]c2cc3c(c(c2n1)CCNCc4ccccc4)N=C(NC3=O)N  3GC4_AAQ
+CNc1[nH]c2c(n1)cc3c(c2CCNCC4CCCC4)N=CNC3=O  3SM0_AEK
+CNc1[nH]c2cc3c(c(c2n1)CCNCC4CCCC4)N=C(NC3=O)N  3GE7_AFQ
+COc1ccc(cc1)CCc2c3c(cc4c2N=C(NC4=O)N)[nH]cn3  1Y5X_E89
+c1ccc(cc1)CCc2c3c(cc4c2N=C(NC4=O)N)[nH]cn3  1Y5V_NE8
+Cc1ccc(cc1)CCc2c3c(cc4c2N=C(NC4=O)N)[nH]cn3  1Y5W_NEZ
+CNc1[nH]c2cc3c(c(c2n1)CCNCC4CCCCC4)N=C(NC3=O)N  3EOS_PK2
+CNc1[nH]c2c(n1)cc3c(c2CCO)N=C(NC3=O)N  3EOU_PK3

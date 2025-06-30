@@ -1,0 +1,15 @@
+Cluster number 151 has matched molecules:  2
+Cluster number 154 has matched molecules:  10
+Cluster number 139 has matched molecules:  3
+Cluster number 133 has matched molecules:  3
+Cluster number 136 has matched molecules:  3
+Cluster number 122 has matched molecules:  2
+Cluster number 135 has matched molecules:  4
+Cluster number 140 has matched molecules:  11
+Cluster number 126 has matched molecules:  5
+Cluster number 145 has matched molecules:  3
+Cluster number 130 has matched molecules:  4
+Cluster number 134 has matched molecules:  3
+Cluster number 149 has matched molecules:  6
+Cluster number 142 has matched molecules:  19
+Cluster number 143 has matched molecules:  9

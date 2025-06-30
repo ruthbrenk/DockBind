@@ -1,0 +1,10 @@
+C[C@@H](c1ccccc1)Nc2nccc(n2)C3=C(C(=O)N(N3C)C4CCNCC4)c5ccc(cc5)F  1YWR_LI9
+CCn1c2c(cnc(n2)Nc3c(cccc3F)F)nc1Nc4ccccc4Cl  2GTM_LID
+CC(C)n1c2c(cnc(n2)Oc3c(cccc3F)F)nc1Nc4ccccc4F  2GTN_LIE
+CC(C)(C)c1cc(c(s1)NC(=O)Nc2cccc3c2cccc3)C(=O)N4CCS(=O)(=O)CC4  3P5K_P5K
+CC(C)(C)c1cc(c(s1)NC(=O)Nc2ccc3ccccc3c2)C(=O)N4CCS(=O)(=O)CC4  3P78_P78
+CC(C)(C)c1cc(n(n1)CC(=O)N2CCS(=O)(=O)CC2)NC(=O)Nc3ccc4ccccc4c3  3P79_P79
+CC(C)(C)c1cc(c(s1)N2CCS(=O)(=O)CC2)NC(=O)Nc3cccc4c3cccc4  3P7A_P7A
+CC(C)(C)c1cc(c(s1)NC(=O)Nc2cccc3c2cccc3)C(=O)N4CCC(=O)NCC4  3P7B_P7B
+CC(C)(C)c1cc(c(s1)NC(=O)Nc2cccc(c2Cl)Cl)C(=O)N3CCC(=O)N(CC3)CCN(C)C  3P7C_P7C
+CCOC[N@]1C(=C(C(=O)O1)c2ccc(cc2)F)c3ccnc(n3)Oc4ccccc4O  1YW2_PGJ

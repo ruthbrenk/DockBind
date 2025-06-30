@@ -1,0 +1,2 @@
+COc1ccc(cc1)Nc2ncc3c(n2)n(c(n3)Nc4ccccc4F)C5CCCC5  3TTJ_JBI
+c1c(cc(c(c1F)Nc2nc3cnc(nc3n2[C@H]4CCOC4)NC5CCC(CC5)O)F)F  3TTI_KBI

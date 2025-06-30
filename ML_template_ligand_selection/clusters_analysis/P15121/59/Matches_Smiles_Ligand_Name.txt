@@ -1,0 +1,11 @@
+c1cc(ccc1CNC(=O)c2ccc(cc2OCC(=O)O)Cl)I  4LAZ_1WW
+c1cc(c(cc1Cl)OCC(=O)O)C(=O)NCc2c(c(c(c(c2F)F)Br)F)F  4LB4_1WX
+c1cc(c(cc1Cl)OCC(=O)O)C(=O)NCc2ccc(cc2F)Br  3M4H_388
+c1cc(cc(c1)[N+](=O)[O-])CNC(=O)c2ccc(cc2OCC(=O)O)Cl  3MC5_393
+c1cc(c(cc1CNC(=O)c2ccc(cc2OCC(=O)O)Cl)[N+](=O)[O-])C#N  3T42_3T4
+c1cc(c(cc1Cl)OCC(=O)O)C(=O)NCc2c(cc(cc2F)Br)F  4LBS_4O8
+c1cc(c(cc1Cl)OCC(=O)O)C(=O)NCc2c(cc(cc2F)I)F  4LBR_4O9
+c1cc(c(cc1N)F)CNC(=O)c2ccc(cc2OCC(=O)O)Cl  4QXI_I98
+c1cc(c(cc1F)OCC(=O)O)C(=S)NCc2ccc(cc2F)Br  1US0_LDT
+c1cc(c(cc1Cl)OCC(=O)O)C(=O)NCc2ccc(cc2F)I  4LB3_M15
+c1cc(ccc1CNC(=O)c2ccc(cc2OCC(=O)O)Cl)Br  4LAU_W8X

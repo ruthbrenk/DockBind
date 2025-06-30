@@ -1,0 +1,11 @@
+c1cc2c(cc1C(=[NH2+])N)nc([nH]2)C3=CC=CNC3=O  1GI7_120
+COc1ccc(c(c1)c2[nH]c3ccc(cc3n2)C(=[NH2+])N)O  1GI9_123
+[H]/N=C(c1ccc2c(c1)nc([nH]2)c3cccc(c3O)c4ccccc4)/N  1GJC_130
+c1ccc(cc1)c2cccc(c2O)c3cc4cc(c(cc4[nH]3)Cl)C(=[NH2+])N  1GJ7_132
+[H]/N=C(c1cc2c(cc1F)[nH]c(n2)c3cccc(c3O)OCC(C)C)/N  1GJ8_133
+[H]/N=C(c1cc2cc([nH]c2cc1F)c3cccc(c3O)O[C@H]4CCCC[C@@H]4C)/N  1GJ9_134
+c1cc(c(c(c1)OC2CCCC2)[O-])c3[nH]c4ccc(cc4n3)C(=[NH2+])N  1O3P_655
+c1ccc(cc1)c2cccc(c2[O-])c3cc4cc(ccc4[nH]3)C(=[NH2+])N  1O5A_696
+C[C@H]1CCCC[C@@H]1Oc2cccc(c2[O-])c3[nH]c4cc(c(cc4n3)C(=[NH2+])N)F  1O5C_CR9
+c1cc2c(cc(s2)C(=[NH2+])N)c(c1)I  1C5X_ESI
+c1cc2cc(sc2nc1)C(=[NH2+])N  1C5Y_ESP

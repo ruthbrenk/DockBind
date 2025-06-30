@@ -1,0 +1,2 @@
+COc1ccc(cc1Nc2ncc(o2)c3cccc(c3)c4cccnc4)S(=O)(=O)NCC5CC5  1Y6B_AAX
+CCS(=O)(=O)c1ccc(c(c1)Nc2ncc(o2)c3cccc(c3)c4ccccn4)OC  1Y6A_AAZ

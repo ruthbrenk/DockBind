@@ -1,0 +1,2 @@
+CC(=CCc1c2c(cc(c1OC)OCCCCCCC(=O)O)Oc3cc4c(c(c3C2=O)O)C=CC(O4)(C)C)C  6KK0_M36
+CC(=CCc1c2c(cc(c1OC)O)Oc3cc4c(c(c3C2=O)O)CCC(O4)(C)C)C  6KJZ_MKU

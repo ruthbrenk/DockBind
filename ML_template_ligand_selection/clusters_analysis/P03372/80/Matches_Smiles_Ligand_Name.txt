@@ -1,0 +1,3 @@
+Cc1cc(ccc1C2=C(c3ccc(cc3OC2=O)O)Cc4ccc(cc4)/C=C/C(=O)O)F  5AK2_85Z
+c1cc2c(cc1O)oc-3c2C(=O)Oc4c3ccc(c4)O  5KR9_CUE
+c1cc(ccc1C2=COc3cc(cc(c3C2=O)O)O)O  1X7R_GEN

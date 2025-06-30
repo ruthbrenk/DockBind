@@ -1,0 +1,9 @@
+CCN1c2ccccc2-c3c(c(n[nH]3)C)C1=O  2QHN_582
+C[C@@]12[C@@H]([C@@H](C[C@@H](O1)n3c4ccccc4c5c3c6n2c7ccccc7c6c8c5C(=O)NC8)NC)OC  1NVR_STU
+c1cc([nH]c1)c2ccc3c(c2)N4C(=NNC4=O)C=C3CO  2YER_TQ1
+c1ccc2c(c1)c3c4c(c5c6ccccc6n7c5c3n2[C@H]8CC[C@@H]7O8)C(=O)NC4=O  1NVS_UCM
+C[C@@]12[C@@H]([C@@H](C[C@@H](O1)n3c4ccccc4c5c3c6n2c7ccccc7c6c8c5C(=O)N[C@@H]8O)NC)OC  1NVQ_UCN
+CC1=CC2=NNC(=O)N2c3c1cccc3  2X8D_X8D
+CC1=CC2=NNC(=O)N2c3c1ccc(c3)c4ccncc4  2X8E_X8E
+CC1=CC2=NNC(=O)N2c3c1cc(cc3)c4cccc(c4)O  2X8I_X8I
+CC1=CC2=NNC(=O)N2c3c1ccc(c3)c4ccc[nH]4  2YEX_YEX

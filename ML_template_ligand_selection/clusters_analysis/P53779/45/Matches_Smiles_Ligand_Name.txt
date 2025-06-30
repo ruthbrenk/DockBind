@@ -1,0 +1,2 @@
+c1ccc(cc1)CNC(=O)c2cc(c[nH]2)c3c(c[nH]n3)c4cccc(c4)Cl  2OK1_33A
+CN(C)CCCC(=O)Nc1cc(cc(c1)C(=O)O)c2c3ccc(cc3[nH]n2)Nc4ccccc4Cl  2B1P_AIZ

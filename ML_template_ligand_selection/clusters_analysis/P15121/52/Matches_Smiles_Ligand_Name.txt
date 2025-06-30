@@ -1,0 +1,3 @@
+c1cc2c(cc1F)[C@@]3(C[C@@H](O2)C(=O)N)C(=O)NC(=O)N3  1X97_FIR
+c1cc2c(cc1F)[C@]3(C[C@H](O2)C(=O)N)C(=O)NC(=O)N3  3BCJ_FIS
+c1cc2c(cc1F)[C@@]3(CCO2)C(=O)NC(=O)N3  2PDK_SBI

@@ -1,0 +1,2 @@
+CC1(O[C@@H]2CO[C@@]3([C@H]([C@@H]2O1)OC(O3)(C)C)CNS(=O)(=O)N)C  2H15_B19
+CC1(O[C@H]2[C@H]3[C@@H](CO[C@]2(O1)COS(=O)(=O)N)OS(=O)(=O)O3)C  1EOU_SMS

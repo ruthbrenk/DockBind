@@ -1,0 +1,4 @@
+c1ccc(c(c1)NC(=O)c2ccc(cc2)N3C=CC=CC3=O)S(=O)(=O)Nc4ccc(cn4)Cl  3CEN_FXA
+c1cc(ccc1C(=O)NCCNC(=O)c2ccc(s2)Cl)N3C=CC=CC3=O  2P93_ME1
+c1cc(ccc1C(=O)N[C@H]2CCCC[C@H]2NC(=O)c3ccc4c(c3)[nH]cc4Cl)N5C=CC=CC5=O  2P94_ME4
+c1cc(ccc1C(=O)N[C@H]2CCC[C@H]2NC(=O)c3ccc(s3)Cl)N4C=CC=CC4=O  2P95_ME5

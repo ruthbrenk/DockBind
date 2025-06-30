@@ -1,0 +1,2 @@
+CC#C[C@@H]1c2cc3c(cc2N=C(N1)N)[nH]c(n3)NC  6RKQ_K75
+CNc1[nH]c2cc3c(cc2n1)CNC(=N3)N  6RKT_K7H

@@ -1,0 +1,4 @@
+CN(C)C(=O)CSc1nc(c2c(c[nH]c2n1)C#N)c3cc(c(cc3Cl)OC)OC  4FCR_0TM
+Cc1ccc(c(c1)C)c2c3c(c[nH]c3nc(n2)SC)C#N  4FCQ_2N6
+Cc1nc(c2c(c[nH]c2n1)C#N)c3cc(c(cc3Cl)Cl)OC  3RLQ_3RQ
+Cc1c(c2c(nc(nc2[nH]1)C)c3cc(c(cc3Cl)Cl)OC)C#N  3RLR_3RR

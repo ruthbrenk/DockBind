@@ -1,0 +1,5 @@
+CC(=O)NCCc1c2cc(ccc2[nH]c1I)NC(=O)OC  3OWH_52X
+CC(=O)NCCc1cccc2c1cc(cc2)S(=O)(=O)NC  3OX1_695
+CC(=O)NCCc1c[nH]c2c1cc(cc2)OC  2QWX_ML1
+CC(=O)NCCc1c2cc(ccc2[nH]c1I)OC  2QX8_ML2
+CC(=O)NCCc1c[nH]c2c1cc(cc2)NC(=O)OC  3OVM_MZC

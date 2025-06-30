@@ -1,0 +1,2 @@
+c1ccc2c(c1)C(=O)c3c(c([nH]c3c4cccs4)Cc5ccc(cc5)O)O2  4MD6_24E
+C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(Oc3c(c(cc(c3C2=O)O)O)CCC(C)C)c4ccc(cc4)OC)O)O)O  2H44_7CA

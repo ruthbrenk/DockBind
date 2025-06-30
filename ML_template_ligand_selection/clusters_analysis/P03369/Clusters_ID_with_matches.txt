@@ -1,0 +1,3 @@
+Cluster number 60 has matched molecules:  10
+Cluster number 61 has matched molecules:  3
+Cluster number 62 has matched molecules:  22

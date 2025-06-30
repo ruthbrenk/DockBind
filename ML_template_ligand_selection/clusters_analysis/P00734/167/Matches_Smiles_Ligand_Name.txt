@@ -1,0 +1,5 @@
+c1ccc(cc1)CS(=O)(=O)[N@]2C[C@@H]3CC[C@H](N3C(=O)C2)C(=O)NCC4CCN(CC4)C(=NO)N  1JWT_BLI
+[H]/N=C(N)/NCCC[C@@H](C(=O)N1CCC[C@H]1C(=O)NCc2cc(ccc2CN)Cl)NS(=O)(=O)Cc3ccccc3  6GBW_EU5
+[H]/N=C(/N)NCCC[C@H]1C(=O)N[C@@H](CSCc2ccccc2CN(CC(=O)N3CCC[C@H]3CC(=O)N1)Cc4ccccc4CO)C(=O)N  6GWE_ODB
+[H]/N=C(N)/NCCCCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CC(C)C)NC(=O)c2ccc(cc2)[N+](=O)[O-]  1YPM_RA4
+[H]/N=C(/N)NCCCCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CC(C)C)NS(=O)(=O)Cc2ccccc2  1YPL_RA8

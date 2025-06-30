@@ -1,0 +1,3 @@
+c1ccc(c(c1)C(=O)Nc2cccc(c2)C(F)(F)F)NCc3ccncc3  5EW3_5T2
+c1ccc(cc1)Oc2ccc(cc2)NC(=O)c3cccnc3NCc4ccncc4  2P2I_608
+Cc1ccc(cc1Nc2c(cccn2)c3ccncn3)C(=O)Nc4cc(cc(c4)C(F)(F)F)CCCN(C)C  3BE2_RAJ

@@ -1,0 +1,9 @@
+Cluster number 62 has matched molecules:  3
+Cluster number 54 has matched molecules:  2
+Cluster number 60 has matched molecules:  5
+Cluster number 53 has matched molecules:  2
+Cluster number 61 has matched molecules:  8
+Cluster number 39 has matched molecules:  2
+Cluster number 59 has matched molecules:  2
+Cluster number 63 has matched molecules:  10
+Cluster number 64 has matched molecules:  3

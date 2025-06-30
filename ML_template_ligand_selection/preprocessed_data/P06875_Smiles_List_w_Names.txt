@@ -1,0 +1,8 @@
+c1cc(ccc1CC(=O)O)[N+](=O)[O-]  1AJN_AAN
+c1cc(c(cc1CC(=O)O)O)O  1AI4_DHY
+C[C@H](c1ccccc1)C(=O)O  1K7D_GRO
+c1ccc(cc1)O  1AI7_IPH
+c1cc(cc(c1)[N+](=O)[O-])CC(=O)O  1AI5_MNP
+c1cc(c(cc1O)CC(=O)O)O  1AJP_OMD
+c1ccc(cc1)CC(=O)O  1K5Q_PAC
+c1cc(sc1)CC(=O)O  1AJQ_SPA

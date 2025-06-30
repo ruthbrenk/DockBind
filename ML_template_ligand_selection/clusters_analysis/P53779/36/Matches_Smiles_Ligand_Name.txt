@@ -1,0 +1,2 @@
+c1ccc(cc1)C=Cc2cccc3c2/C(=N/O)/C(=O)N3Cc4cc(cc5c4OCOC5)F  3G9L_J67
+c1cc2c(cc1F)/C(=NO)/C(=O)N2Cc3cc(cc4c3OCOC4)F  3G90_J72

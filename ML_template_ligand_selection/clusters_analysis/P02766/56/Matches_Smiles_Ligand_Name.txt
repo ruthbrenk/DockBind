@@ -1,0 +1,2 @@
+c1(c(c(c(c(c1Br)Br)Br)Br)Br)O  1E4H_PBR
+c1c(cc(c(c1Br)O)Br)Br  1E5A_TBP

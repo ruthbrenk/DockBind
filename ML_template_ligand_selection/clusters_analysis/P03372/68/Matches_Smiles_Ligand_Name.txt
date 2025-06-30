@@ -1,0 +1,8 @@
+C[C@H]1CN(C[C@@H]1C)CCOc2ccc(cc2)[C@H]3[C@H](Sc4cc(ccc4O3)O)c5ccc(cc5)O  1XP1_AIH
+C[C@@H](COc1ccc(cc1)[C@H]2[C@H](Sc3cc(ccc3O2)O)c4ccc(cc4)O)N5CCCC5  1XP9_AIJ
+C[C@H](COc1ccc(cc1)[C@H]2[C@H](Sc3cc(ccc3O2)O)c4ccc(cc4)O)N5CCCC5  1XPC_AIT
+C[C@@H]1CN(C[C@H]1C)CCOc2ccc(cc2)[C@H]3[C@H](Sc4cc(ccc4O3)O)c5ccc(cc5)O  1XP6_AIU
+C[C@@H]1c2c(ccc(c2F)O)O[C@H]([C@H]1c3ccc(cc3)O)c4ccc(cc4)OCCN5CCCCC5  1YIN_CM3
+C[C@@H]1c2cc(ccc2O[C@H]([C@H]1c3ccc(cc3)O)c4ccc(cc4)OCCN5CCCC5)O  1YIM_CM4
+c1cc(ccc1[C@@H]2[C@@H](Oc3ccc(cc3S2)O)c4ccc(cc4)OCCN5CCCCC5)O  1SJ0_E4D
+c1cc(ccc1[C@@H]2C3=C(CCOc4c3ccc(c4)O)c5ccc(cc5O2)O)OCCN6CC(C6)CF  6DF6_G8Y

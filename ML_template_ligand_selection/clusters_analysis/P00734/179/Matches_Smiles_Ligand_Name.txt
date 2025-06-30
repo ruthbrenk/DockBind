@@ -1,0 +1,5 @@
+c1ccc2c(c1)-c3c[n+](ccc3[C@]2(C(=O)N4CCC[C@H]4C(=O)NCc5cc(ccc5CN)Cl)O)[O-]  1ZRB_062
+CCNC(=O)COc1ccc(cc1CNC(=O)[C@@H]2CCCN2C(=O)[C@@H](C3CCCCC3)N)Cl  1TA6_177
+Cc1ccc([nH]1)C(=O)N2CCC[C@H]2C(=O)NCc3cc(ccc3CN)Cl  4YES_45S
+[H]/N=C(N)/NCCC[C@@H](C(=O)N1CCC[C@H]1C(=O)NCc2cc(ccc2CN)Cl)NS(=O)(=O)Cc3ccccc3  6GBW_EU5
+c1cc2c(cc1Cl)CNC(=O)[C@@H]3CCCN3C(=O)[C@H](NC(=O)CCNC(=O)CO2)C4CCCCC4  1NT1_T76

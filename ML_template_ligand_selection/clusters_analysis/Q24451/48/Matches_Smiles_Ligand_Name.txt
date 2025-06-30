@@ -1,0 +1,6 @@
+CS[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)NCc2ccccc2  2F7P_2SK
+CO[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)N  3DX4_GOO
+CS[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)N  2F7O_MSN
+C[S@@](=O)[C@@H]1[C@H]([C@H]([C@H]([C@H]1O)O)O)N  3DX2_MZB
+C1[C@H]([C@H]([C@H]([C@H]1O)O)O)N  3DX1_YHO
+C1([C@H]([C@@H]([C@@H]([C@@H]1O)O)O)O)N  3DX3_YTB

@@ -1,0 +1,16 @@
+c1ccc(c(c1)CSc2[nH]c3c(n2)C(=O)NC(=N3)N)F  5ETK_5RU
+c1ccc(c(c1)CSc2[nH]c3c(n2)C(=O)N=C(N3)N)C#N  5ETL_5RV
+c1cc(ccc1CSc2[nH]c3c(n2)N=C(NC3=O)N)F  5ETM_5RW
+c1cc(ccc1CSc2[nH]c3c(n2)C(=O)NC(=N3)N)Cl  5ETN_5RX
+c1cc(c(cc1C#N)F)CSc2[nH]c3c(n2)C(=O)NC(=N3)N  5ETO_5RY
+c1cc(ccc1C(=O)CSc2[nH]c3c(n2)C(=O)NC(=N3)N)Br  5ETP_5RZ
+c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@@](=O)(O)O[P@@](=O)(O)O[P@@](=O)(O)OCC4=NC5=C(NC4)N=C(NC5=O)N)O)O)N  1EX8_A4P
+CC1(C(=NC2=C(N1)N=C(NC2=O)N)C(=O)NCCN3CCC(CC3)SC[C@@H]4[C@H]([C@H]([C@@H](O4)n5cnc6c5ncnc6N)O)O)C  3UDV_J1C
+CC1(C(=NC2=C(N1)N=C(NC2=O)N)C(=O)NCC(=O)NCCS(=O)(=O)C[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)C  4F7V_J1D
+C1C(=NC2=C(N1)N=C(NC2=O)N)CO  1RU1_PH2
+c1ccc(cc1)C(=O)CSc2[nH]c3c(n2)C(=O)NC(=N3)N  4M5G_YH1
+c1cc(ccc1CSc2[nH]c3c(n2)C(=O)NC(=N3)N)C#N  4M5H_YH2
+Cc1cccc(c1)C(=O)CSc2[nH]c3c(n2)C(=O)NC(=N3)N  4M5K_YH3
+Cc1ccccc1C(=O)CSc2[nH]c3c(n2)N=C(NC3=O)N  4M5L_YH4
+COc1ccc(cc1)C(=O)CSc2[nH]c3c(n2)C(=O)NC(=N3)N  4M5J_YH5
+Cc1ccc(cc1)C(=O)CSc2[nH]c3c(n2)N=C(NC3=O)N  4M5I_YH6

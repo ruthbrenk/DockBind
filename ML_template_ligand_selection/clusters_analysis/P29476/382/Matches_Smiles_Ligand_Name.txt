@@ -1,0 +1,10 @@
+Cc1cc(nc(c1)N)COC[C@H](CN)OCc2cc(cc(n2)N)C  4K5D_1Q6
+Cc1cc(nc(c1)N)COC[C@@H](CN)OCc2cc(cc(n2)N)C  4K5E_1Q7
+Cc1cc(nc(c1)N)COc2cccc(c2)CNCCc3cccc(c3)F  4JSI_Q05
+Cc1cc(nc(c1)N)COc2cccc(c2)OCCCN  4JSG_Q10
+Cc1cc(nc(c1)N)COC[C@@H]([C@H](C)OCc2cc(cc(n2)N)C)N  4K5G_Q13
+Cc1cc(nc(c1)N)COCC[C@@H](CN)OCc2cc(cc(n2)N)C  4K5F_Q14
+Cc1cc(nc(c1)N)COc2cccc(c2)OCC3CCNCC3  4JSH_Q15
+Cc1cc(nc(c1)N)COC[C@H]2C[C@@H](CN2)OCc3cc(cc(n3)N)C  4CX6_Q16
+Cc1cc(nc(c1)N)COc2cc(cnc2)CNCCc3cccc(c3)F  4JSJ_QJ7
+Cc1cc(nc(c1)N)COC[C@@H]2C[C@H](CN2)OCc3cc(cc(n3)N)C  4LUX_QJ8

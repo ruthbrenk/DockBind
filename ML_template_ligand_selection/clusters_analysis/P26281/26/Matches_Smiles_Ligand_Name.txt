@@ -1,0 +1,2 @@
+c1[nH]c2c(n1)C(=S)NC(=N2)N  4M5M_DX4
+C1=NC2=C(NC(=S)N=C2N1)N  4M5N_YH7

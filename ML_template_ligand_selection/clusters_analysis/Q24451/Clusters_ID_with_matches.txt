@@ -1,0 +1,5 @@
+Cluster number 44 has matched molecules:  2
+Cluster number 48 has matched molecules:  6
+Cluster number 55 has matched molecules:  9
+Cluster number 50 has matched molecules:  6
+Cluster number 52 has matched molecules:  7

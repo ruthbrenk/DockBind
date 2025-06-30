@@ -1,0 +1,6 @@
+[H]/N=C(c1ccc(cc1)NC(=O)c2c(ccc(n2)OC)c3ccc(cc3C(=O)O)C(=O)N[C@H](CO)C(C)(C)C)/N  4JZD_1NJ
+CC(C)(C)[C@@H](CO)NC(=O)c1ccc(c(c1)C(=O)O)c2ccc(nc2C(=O)Nc3ccc4c(c3)ccnc4N)OC  4JZE_1NK
+CC(C)(C)[C@@H](CO)NC(=O)c1ccc(c(c1)C(=O)O)c2ccc(nc2C(=O)Nc3cccc(c3)C(=O)N)OC  4JZF_1NL
+[H]/N=C(/c1ccc(nc1)NCc2cc(ccc2c3ccc(cc3C(=O)O)C(=O)NCC(C)C)C=C)N  2EC9_24X
+[H]/N=C(c1cccc(c1)Oc2c(c(c(c(n2)Oc3ccc(cc3C(=O)O)C(=O)NCC(C)C)F)N(C(C)C)C(C)C)F)/N  2C4F_GIL
+CC[C@@H](C)NC(=O)c1cc(cc(c1)N)C2=CN=C(C(=O)N2CC(=O)NCc3ccc(cc3C(=O)Nc4ccncc4)C(=N)N)NC(C)C  1Z6J_PY3

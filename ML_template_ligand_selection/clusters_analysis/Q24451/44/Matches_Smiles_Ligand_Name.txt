@@ -1,0 +1,2 @@
+C([C@@H]1[C@H]([C@@H]([C@@H]([C@H](S1)N)O)O)O)O  1R33_LKA
+[H]/N=C(/Cc1ccccc1)N[C@@H]2[C@H]([C@H]([C@@H]([C@H](S2)CO)O)O)O  1R34_LKS

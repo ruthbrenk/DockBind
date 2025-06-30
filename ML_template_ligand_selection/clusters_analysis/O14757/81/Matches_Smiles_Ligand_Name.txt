@@ -1,0 +1,2 @@
+c1ccc(cc1)c2cnc3n2cc(nc3)c4c[nH]nc4  2XF0_4UB
+c1c[nH]nc1c2cnc3n2cc(nc3)c4c[nH]nc4  2XEZ_XEZ

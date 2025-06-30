@@ -1,0 +1,2 @@
+COc1ccc(cc1F)CSc2nnc(o2)c3ccc4c(c3)OCO4  3F7Z_34O
+Cc1nnc(o1)c2ccc3c(c2)c(co3)c4ccc(cc4)[S@@](=O)C  3GB2_G3B

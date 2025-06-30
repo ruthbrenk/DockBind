@@ -1,0 +1,11 @@
+CCCc1c(nc(s1)c2ccc(c(c2)OCCF)OC)CSc3nc(cc(n3)N)N  4JLN_18V
+COc1ccc(cc1OCCF)c2nc(cs2)CSc3nc(cc(n3)N)N  4JLJ_1NM
+CCc1c(nc(s1)c2ccc(c(c2)OCCF)OC)CSc3nc(cc(n3)N)N  4JLM_1NN
+CCCc1c(nc(s1)c2ccc(c(c2)OCC(C)(C)O)OC)CSc3cc(nc(n3)N)N  4Q18_2XJ
+CCCc1c(nc(s1)c2ccc(c(c2)O)OC)CSc3nc(cc(n3)N)N  4Q19_2XL
+CCCc1c(nc(s1)c2ccc(c(c2)OCCO)OCCO)CSc3nc(cc(n3)N)N  4Q1C_2XM
+Cc1c(nc(s1)c2ccc(c(c2)OCCNS(=O)(=O)C)OC)[C@@H](C)Sc3nc(cc(n3)N)N  4Q1F_2XN
+CCCc1c(nc(s1)c2ccc(c(c2)OCCO)OC)CSc3nc(cc(n3)N)N  4Q1A_2XZ
+CCCc1c(nc(s1)c2cccc(c2)OCCNS(=O)(=O)C)CSc3nc(cc(n3)N)N  4Q1B_2Y0
+CCCc1c(nc(s1)c2ccc(c(c2)OCCF)OC)[C@@H](C)Sc3nc(cc(n3)N)N  4Q1D_2Y1
+C1[C@@H]([C@H](O[C@H]1N2C=C(C(=NC2=O)N)F)CO)O  3IPX_B86

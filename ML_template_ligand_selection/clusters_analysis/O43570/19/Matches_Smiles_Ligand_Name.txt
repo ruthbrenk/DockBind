@@ -1,0 +1,5 @@
+C(CS(=O)(=O)c1c(c(c(c(c1F)F)S(=O)(=O)N)F)F)O  5MSB_V13
+C1CCCC(CCC1)Nc2c(c(c(c(c2S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4Q0L_V14
+c1ccc(cc1)CCS(=O)(=O)c2c(c(c(c(c2F)F)S(=O)(=O)N)F)NCc3ccccc3  4QJO_V1F
+c1ccc(cc1)CNc2c(c(c(c(c2S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4QJW_WWO
+c1ccc(cc1)[C@H]([C@H](c2ccccc2)O)Nc3c(c(c(c(c3S(=O)(=O)CCO)F)F)S(=O)(=O)N)F  4QJ0_WWX

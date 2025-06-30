@@ -1,0 +1,6 @@
+COC1CCN(CC1)c2nccc(n2)Nc3cc4c(ccn4C5CCCC5)cn3  4RJ3_3QS
+CC(C)c1cnn2c1nc(cc2Nc3ccc(cc3)S(=O)(=O)N(C)C)NC4CCC(CC4)N  1Y91_CT9
+CC(C)Nc1cc(nc2n1ncc2C#N)Cl  2VTR_LZB
+CC(C)Nc1cc(nc2n1ncc2C#N)NC3CCC(CC3)N  2VTS_LZC
+CC(C)c1cnn2c1nc(cc2NCc3ccccc3)N[C@@H](CO)[C@@H](CO)O  3NS9_NS9
+CCOc1ccc(cc1)Nc2c(c(nc3n2ncc3)N[C@H]4CCCNC4)C  3WBL_PDY

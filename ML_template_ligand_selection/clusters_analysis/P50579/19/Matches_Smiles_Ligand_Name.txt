@@ -1,0 +1,3 @@
+c1cc2c(cc1N3CC[C@@](C3=O)(C(=O)NCc4cc(cc(c4)Cl)F)O)CCC(=O)N2  6QED_HZK
+c1ccc(cc1)N2CC[C@@](C2=O)(C(=O)NCc3cc(cc(c3)Cl)F)O  6QEF_HZW
+c1ccc(cc1)N2CC[C@@](C2=O)(C(=O)NCCc3cccs3)O  6QEG_K4K

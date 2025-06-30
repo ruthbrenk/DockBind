@@ -1,0 +1,2 @@
+C[C@H](CCc1ccc(cc1)O)NC(=O)Cc2c3ccc(cc3[nH]c2c4ccccc4)OCCN5CCCCC5  2IOG_IOG
+C[C@H](CCc1ccc(cc1)O)NC(=O)Cc2c3ccccc3[nH]c2c4ccccc4  2IOK_IOK

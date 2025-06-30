@@ -1,0 +1,2 @@
+c1cc(cnc1)c2cnc(s2)Nc3cc(ccn3)N4CCN(CC4)CC(=O)N5CCOCC5  3TKH_07S
+c1cnc(cc1N2CCOCC2)Nc3ncc(s3)c4cc(cnc4)C(=O)NCCN  3TKI_S25

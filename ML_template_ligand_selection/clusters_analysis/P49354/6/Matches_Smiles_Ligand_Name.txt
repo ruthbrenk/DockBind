@@ -1,0 +1,2 @@
+c1cc(cc(c1)Cl)N2CC[N@@](CC2=O)Cc3cncn3Cc4ccc(cc4)C#N  1S63_778
+Cc1ccccc1S(=O)(=O)[N@](CC[N@@](Cc2cncn2C)c3ccc(cc3)C#N)CC4CCN(CC4)C(=O)OC(C)(C)C  3E37_ED5

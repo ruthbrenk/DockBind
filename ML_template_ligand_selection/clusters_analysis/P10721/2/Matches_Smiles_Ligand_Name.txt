@@ -1,0 +1,2 @@
+c1cc2c(c[nH]c2nc1)Cc3ccc(nc3)NCc4ccc(cc4)C(F)(F)F  4HVS_647
+CCC(=O)NCc1cc(cc(c1)NC(=O)Cc2c(cc(cn2)Oc3ccnc4c3ccc(c4)OC)OC)C  6XVA_O2K

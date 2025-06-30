@@ -1,0 +1,3 @@
+COC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)c2cc(c3cc(ccc3n2)c4cccc(c4)Cl)C(=O)O  4NJ3_2KD
+CC(C)(C)Nc1c2cc(ccc2nc(n1)C(F)(F)F)c3cccc(c3)N  2B53_D23
+c1cc(cc(c1)c2c3c([nH]cn3)nc(n2)N)CC(=O)O  6Q4G_HJK

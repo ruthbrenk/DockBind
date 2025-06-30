@@ -1,0 +1,3 @@
+c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O  3D2T_1FL
+COC(=O)CCNC(=O)c1cc(cc(c1O)I)c2ccc(cc2F)F  3FC8_IFA
+c1cc(c(cc1F)F)c2cc(c(c(c2)I)O)C(=O)NCCC(=O)O  3FCB_IFB

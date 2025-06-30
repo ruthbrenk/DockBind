@@ -1,0 +1,9 @@
+c1ccc(cc1)C(=O)C[C@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJP_HN2
+Cc1ccc(cc1)C(=O)C[C@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJQ_HN3
+CC(C)(C)c1ccc(cc1)C(=O)C[C@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJR_HN4
+CC(C)(C)c1ccc(cc1)CC[C@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJS_HN5
+CC(C)(C)c1ccc(cc1)CC[C@@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJT_HN6
+CC(C)(C)c1ccc(cc1)C(=O)C[C@@H]2CC[C@H]([C@H]3[N@]2C[C@H]([C@H]3O)O)O  3EJU_HN7
+C1C[C@@H]([C@H]2[C@@H]([C@@H](C[S@+]2C1)O)O)O  2OW6_NK1
+C1CC[S@@+]2C[C@H]([C@H]([C@@H]2C1)O)O  2OW7_NK2
+C1C[C@H]([C@@H]2[C@@H]([C@@H](C[N@]2C1)O)O)O  1HWW_SWA

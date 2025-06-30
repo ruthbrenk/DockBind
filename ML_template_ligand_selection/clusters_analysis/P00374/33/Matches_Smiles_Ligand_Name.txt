@@ -1,0 +1,2 @@
+COc1ccc(cc1Cc2cnc(nc2N)N)OCCCCC(=O)O  3FS6_DH1
+COc1cc(cc(c1OC)OC)Cc2cnc(nc2N)N  3S3V_TOP

@@ -1,0 +1,6 @@
+CCCC(CCC)C(=O)N[C@@H]1Cc2ccc(cc2C1)S(=O)(=O)N  2QO8_3CC
+CCCc1ccc(cc1)S(=O)(=O)N  4YXU_4JE
+CCCCCc1ccc(cc1)S(=O)(=O)N  6SBH_L4K
+c1cc(ccc1CCC(=O)O)S(=O)(=O)N  2NNO_M28
+CCOC(=O)CCc1ccc(cc1)S(=O)(=O)N  2NNV_M29
+c1cc2c(cc1S(=O)(=O)N)CCC2  2QOA_MAJ

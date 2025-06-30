@@ -1,0 +1,2 @@
+CNC(=O)c1cc(ccn1)Oc2ccc3c(c2)nc(o3)Nc4ccc(c(c4)OC[C@@H]5CCC[N@]5C)Cl  2QU6_857
+CNC(=O)c1cc(ccn1)Oc2ccc(cc2)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl  3WZE_BAX

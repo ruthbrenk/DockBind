@@ -1,0 +1,3 @@
+c1cc2c(cc1F)S(=O)(=O)NC(=O)N2  6UGR_Q71
+Cc1cc(c2c(c1)S(=O)(=O)NC(=O)N2)C  6UGN_Q77
+c1cc2c(c(c1)Cl)NC(=O)NS2(=O)=O  6UGP_Q7A

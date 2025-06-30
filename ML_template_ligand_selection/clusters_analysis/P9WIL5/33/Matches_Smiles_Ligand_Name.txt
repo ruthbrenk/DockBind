@@ -1,0 +1,5 @@
+COc1ccc2c(c1)cc(n2CC(=O)O)CNC(=O)c3cc4ccccc4o3  3LE8_2B5
+Cc1ccc(nc1)S(=O)(=O)NC(=O)c2cc3cc(ccc3n2CC(=O)O)OC  3IUE_FG3
+COc1ccc2c(c1)cc(n2CC(=O)O)C(=O)OCc3cc4ccccc4o3  3IVC_FG4
+COc1ccc2c(c1)cc(n2CC(=O)O)CNS(=O)(=O)c3cc4ccccc4o3  3IVG_FG5
+COc1ccc2c(c1)cc(n2CC(=O)O)C(=O)NS(=O)(=O)c3cc4ccccc4o3  3IVX_FG6

@@ -1,0 +1,5 @@
+c1cc2c(cc1CN3CCCCC3)cc([nH]2)C4=Cc5cc(ccc5NC4=O)c6c[nH]nc6  2HY0_306
+c1ccc2c(c1)C=C(C(=O)N2)c3cc4cc(ccc4[nH]3)CN5CCC(CC5)CN  2HXQ_373
+c1cc2c(cc1CN3CCC(CC3)CN)cc([nH]2)c4c5ccc(cc5[nH]n4)C#N  2HXL_422
+CC(C)(CN(C)C)COc1ccc2c(c1)cc([nH]2)C3=CC(=CNC3=O)NC(=O)c4cnn(c4)Cc5ccccc5  5DLS_5CV
+c1cc2c(cc1CN3CCCCC3)cc([nH]2)c4c5ccc(cc5[nH]n4)c6c(n[nH]n6)CO  2HOG_710

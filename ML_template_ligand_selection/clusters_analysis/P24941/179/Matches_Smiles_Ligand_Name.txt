@@ -1,0 +1,4 @@
+c1cc(ccc1c2ccc(o2)C=C/3C(=O)NC(=O)S3)S(=O)(=O)N  2UZO_C62
+[H]/N=C/1NC(=O)/C(=C/c2ccc(o2)c3ccc(c(c3)C(F)(F)F)S(=O)(=O)N)/S1  2UZL_C94
+[H]/N=C/1NC(=O)/C(=C/c2ccc(o2)c3ccc(cc3)C(=O)O)/S1  2UZE_C95
+[H]/N=C/1NC(=O)/C(=C(C)/c2ccc(o2)c3ccc(cc3)S(=O)(=O)N)/S1  2UZN_C96

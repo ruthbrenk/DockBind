@@ -1,0 +1,2 @@
+c1cc(c(cc1N/C(=NO)/c2c(non2)NCCNS(=O)(=O)N)Br)F  6IC2_BBJ
+c1cc(c(cc1C/C(=NO)/C(=O)NCCS(=O)(=O)N)Br)O  5G03_OE2

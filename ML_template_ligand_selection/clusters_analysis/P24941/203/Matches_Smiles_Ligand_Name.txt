@@ -1,0 +1,6 @@
+c1ccc2c(c1)C(=O)/C(=C/3c4cc(ccc4NC3=O)Br)/N2  2BHE_BRY
+c1ccc2c(c1)C(=O)/C(=C/3c4cc(ccc4NC3=O)S(=O)(=O)O)/N2  1E9H_INR
+CNS(=O)(=O)c1ccc(cc1)NC=C/2c3ccccc3NC2=O  1KE5_LS1
+c1cc2c(cc1c3cnco3)C(=CNc4ccc5c(c4)CS(=O)(=O)C5)C(=O)N2  1KE7_LS3
+c1ccc2c(c1)/C(=C/Nc3ccc(cc3)S(=O)(=O)Nc4nccs4)/C(=O)N2  1KE8_LS4
+c1ccc2c(c1)/C(=C/Nc3ccc(cc3)S(=O)(=O)NC(=N)N)/C(=O)N2  1KE9_LS5

@@ -1,0 +1,9 @@
+[H]/N=C(c1ccc2c(c1)[C@H]3c4ccccc4C[C@H]3[C@@H](N2)c5cc(c(cc5c6ccc(cc6)C(=O)O)O)OC)/N  4ISH_1GE
+CCOc1cc(ccc1OC(C)C)[C@H](C(=O)NS(=O)(=O)c2cccc(c2)S(=O)(=O)N)Nc3ccc4cnccc4c3  4JYV_1OJ
+CCOc1cc(ccc1OC(C)C)[C@H](C(=O)NS(=O)(=O)c2ccccc2)Nc3ccc4c(c3)ccnc4N  4JYU_1OK
+[H]/N=C(c1ccc(cc1)N[C@H](c2cc(cc(c2F)O[C@@H]3CCOC3)OCC)C(=O)O)/N  2BZ6_346
+COc1cc(ccc1OCc2ccccc2)[C@H](C(=O)N[C@@H](c3ccccc3)C(=O)O)Nc4ccc(cc4)C(=N)N  1W7X_413
+[H]/N=C(c1ccc(cc1)N[C@H](c2cc(cc(c2F)OC(C)C)OCC)c3[nH]cc(n3)c4ccccc4)/N  4YT6_4JY
+[H]/N=C(c1ccc(cc1)N[C@H](c2cc(cc(c2F)OC(C)C)OCC)c3[nH]cc(n3)c4ccccc4C(=O)N)/N  4YT7_4K1
+COc1cc(c(cc1OCc2ccccc2)NS(=O)(=O)C)CNc3ccc(cc3)C(=N)N  1W0Y_771
+[H]/N=C(/c1ccc(cc1O)N[C@H](c2cc(cc(c2F)OCC)OCC)C(=O)NS(=O)(=O)c3cccc(c3)N)N  1YGC_905

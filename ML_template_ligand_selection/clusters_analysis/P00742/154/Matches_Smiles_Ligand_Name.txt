@@ -1,0 +1,10 @@
+CN(C)Cc1ccccc1c2ccc(cc2)N3CCc4c(n(nc4C(F)(F)F)c5cccc(c5)C(=O)N)C3=O  2G00_4QC
+c1ccc(c(c1)C[N@@]2CC[C@H](C2)O)c3ccc(cc3)N4CCc5c(n(nc5C(F)(F)F)c6ccc7c(c6)c(no7)N)C4=O  2FZZ_5QC
+c1ccc(c(c1)C[N@@]2CC[C@H](C2)O)c3ccc(cc3)N4CCc5c(n(nc5C(F)(F)F)c6cccc(c6)C7=NNC(=O)N7)C4=O  3FFG_FFG
+COc1ccc(cc1)n2c3c(c(n2)C(=O)N)CCN(C3=O)c4ccc(cc4)N5CCCCC5=O  2P16_GG2
+CN(C)Cc1nccn1c2ccc(c(c2)F)NC(=O)c3cc(nn3c4ccc5c(c4)c(no5)N)C(F)(F)F  1Z6E_IK8
+CN(C)Cc1nccn1c2ccc(c(c2)F)c3ccc4c(c3F)n(nc4C(=O)N)c5ccc6c(c5)c(no6)N  2RA0_JNJ
+COc1ccc(cc1)n2c3c(c(n2)C(F)(F)F)CCN(C3=O)c4ccc(cc4)C5(CC5)CN6CCCC6  3CS7_LG0
+CS(=O)(=O)c1ccccc1c2ccc(c(c2)F)NC(=O)c3cc(nn3c4cccc(c4)C5=NNC(=O)N5)C(F)(F)F  3KQB_LGJ
+CS(=O)(=O)c1ccccc1c2ccc(cc2)N3CCc4c(n(nc4C(F)(F)F)c5cccc(c5)C6=NNC(=O)N6)C3=O  3KQC_LGK
+Cc1c2c(n(n1)c3cccc(c3)C4=NNC(=O)N4)C(=O)N(CC2)c5ccc(cc5)c6ccccc6CN7CCCC7  3KQE_LGM

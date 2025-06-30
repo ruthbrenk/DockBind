@@ -1,0 +1,2 @@
+c1ccc2c(c1)CCC(=O)N2CC(=O)Nc3c(c(cs3)C#N)c4[nH]ncn4  3RTP_34I
+Cc1csc(c1c2[nH]ncn2)NC(=O)CN3c4ccccc4CCC3=O  3PTG_932

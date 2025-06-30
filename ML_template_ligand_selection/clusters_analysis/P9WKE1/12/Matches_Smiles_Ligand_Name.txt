@@ -1,0 +1,4 @@
+C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)CO)COP(=O)(O)O)O  1MRS_5HU
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@](=O)(O)O[P@@](=O)(O)O[P@@](=O)(O)O[P@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O  1MRN_T5A
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)O  1W2G_THM
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O  1GTV_TMP

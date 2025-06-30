@@ -1,0 +1,5 @@
+COc1ccc(c2c1cccc2)S(=O)(=O)Nc3cc(ccc3F)C(=O)O  5Y0G_8JL
+COc1ccc(c2c1cccc2)S(=O)(=O)Nc3ccc(c(c3)C(=O)O)F  5Y0F_8JO
+COc1ccc(c2c1cccc2)S(=O)(=O)Nc3cccc(c3F)C(=O)O  5Y0X_8JR
+COc1ccc(c2c1cccc2)S(=O)(=O)NCCCCC(=O)O  5Y12_8JX
+c1ccc2c(c1)c(ccc2Br)S(=O)(=O)NCCCCC(=O)O  5Y13_8K0

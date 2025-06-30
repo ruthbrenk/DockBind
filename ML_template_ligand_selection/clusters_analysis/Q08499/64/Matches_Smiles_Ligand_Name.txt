@@ -1,0 +1,3 @@
+COc1ccc(c(c1OC)OCC(=O)NCc2ccccc2)C(=O)Cc3c(cncc3Cl)Cl  4WCU_3KQ
+COc1ccc(cc1OC2CCCC2)C(=O)Nc3c(cncc3Cl)Cl  1XON_PIL
+c1cc(c(cc1C(=O)Nc2c(cncc2Cl)Cl)OCC3CC3)OC(F)F  1XOQ_ROF

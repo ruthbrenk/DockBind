@@ -1,0 +1,10 @@
+C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)CO)COP(=O)(O)O)O  1MRS_5HU
+C[S@@](=O)C1=C(C(=O)NC(=C1)c2cccc(c2)OC(F)(F)F)C#N  4UNQ_H6D
+CCc1cc2c(c(n1)C)C(=C(C(=O)N2)C#N)c3ccc(cc3)NS(=O)(=O)C  4UNS_QZ3
+c1cc(c2c(c1)C3=C(CC2)C(=C(C(=O)N3)C#N)c4ccc(cc4)C(=O)O)c5c[nH]nc5  4UNR_QZE
+COc1cccc(c1)C2=CC(=C(C(=O)N2)C#N)c3ccc(cc3)C(=O)O  4UNN_QZZ
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@](=O)(O)O[P@@](=O)(O)O[P@@](=O)(O)O[P@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O  1MRN_T5A
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)O  1W2G_THM
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)O)O  1GTV_TMP
+CCCc1cc2c(c(n1)C)C=CC(=O)N2  4UNP_TXW
+CC1=CN(C(=O)NC1=O)C2CCN(CC2)Cc3cc(c4ccccc4n3)Oc5cccc(c5)Cl  5NR7_YUI

@@ -1,0 +1,11 @@
+Cluster number 59 has matched molecules:  3
+Cluster number 80 has matched molecules:  3
+Cluster number 72 has matched molecules:  2
+Cluster number 54 has matched molecules:  2
+Cluster number 71 has matched molecules:  2
+Cluster number 76 has matched molecules:  6
+Cluster number 73 has matched molecules:  7
+Cluster number 74 has matched molecules:  3
+Cluster number 60 has matched molecules:  2
+Cluster number 66 has matched molecules:  3
+Cluster number 68 has matched molecules:  8

@@ -1,0 +1,6 @@
+c1cc2c(cc(s2)S(=O)(=O)N[C@H]3CCN(C3=O)Cc4ccc5ccnc(c5c4)N)nc1  1F0R_815
+c1cc2c(cc(s2)S(=O)(=O)N[C@H]3CCN(C3=O)Cc4cc5ccncc5[nH]4)nc1  1F0S_PR2
+c1cc(cc2c1cc(s2)S(=O)(=O)[N@]3CCN(C(=O)C3)Cc4cc5cnccc5n4CCO)Cl  1NFX_RDR
+c1cc(cc(c1)C(=N)N)CN2CC[N@@](CC2=O)S(=O)(=O)c3cc4ccc(cc4s3)Cl  1NFU_RRP
+c1cc(sc1C=CS(=O)(=O)[N@]2CCN(C(=O)C2)Cc3cc4cnccc4[nH]3)Cl  1NFW_RRR
+c1cc(ccc1CN2CC[N@@](CC2=O)S(=O)(=O)c3cc4ccc(cc4s3)Cl)C(=N)N  1NFY_RTR

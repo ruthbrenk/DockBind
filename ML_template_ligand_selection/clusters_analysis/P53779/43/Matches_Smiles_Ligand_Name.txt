@@ -1,0 +1,4 @@
+c1ccc2cc(ccc2c1)N3C(=NN(C3=O)C4CCOCC4)c5ccnc(c5)NC6CCCCC6  3OY1_589
+Cc1c([nH]c(n1)SC)c2ccnc(c2)Nc3ccc(cc3)N4CCOCC4  6EKD_B9K
+Cc1c([nH]cn1)c2ccnc(c2)Nc3ccc(cc3)N4CCOCC4  6EMH_BGE
+c1cc(ccc1/N=C2/NC=CC(=N2)c3cc(cc(c3)F)N4CCOCC4)n5cnc(n5)N6CCOCC6  3KVX_FMY

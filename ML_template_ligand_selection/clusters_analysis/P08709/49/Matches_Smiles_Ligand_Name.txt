@@ -1,0 +1,2 @@
+c1cc(cc(c1)c2cccc(c2O)c3cc4cnccc4[nH]3)CNC(=O)N  2FLR_7NH
+[H]/N=C(/c1ccc2c(c1)[nH]c(n2)c3cc(cc(c3O)c4cc(ccc4O)CNC(=O)N)[C@@H](CC(=O)O)C(=O)O)N  2B7D_C1B

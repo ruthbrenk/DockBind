@@ -1,0 +1,2 @@
+COc1ccc(cc1OCCCCOc2ccc(cc2)c3[nH]nnn3)C4=NN(C(=O)[C@H]5[C@@H]4CC=CC5)C6CCCCCC6  5LBO_6M5
+CC(C)N1C(=O)[C@@H]2CC=CC[C@@H]2C(=N1)c3ccc(c(c3)C#CC(=O)NCc4ccccc4)OC  6HWO_FFZ

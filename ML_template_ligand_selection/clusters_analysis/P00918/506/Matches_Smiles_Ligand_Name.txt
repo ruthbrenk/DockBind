@@ -1,0 +1,3 @@
+C=CC[Se]c1ccc(cc1)S(=O)(=O)N  6CEH_EZ1
+CC#CC[Se]c1ccc(cc1)S(=O)(=O)N  6D1L_FQV
+c1cc(ccc1S(=O)(=O)N)[Se]C2CCCCC2  6D1M_FQY

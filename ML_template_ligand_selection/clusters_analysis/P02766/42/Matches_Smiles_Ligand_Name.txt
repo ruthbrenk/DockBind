@@ -1,0 +1,3 @@
+COc1cc(c2c(c1)OC(=CC2=O)c3ccc(c(c3)O)O)O  5IHH_6B5
+c1cc(c(cc1C2=CC(=O)c3c(cc(cc3O2)Cl)O)O)O  5EN3_7LU
+c1cc(c(cc1C2=CC(=O)c3c(cc(cc3O2)O)O)O)O  4DEW_LU2

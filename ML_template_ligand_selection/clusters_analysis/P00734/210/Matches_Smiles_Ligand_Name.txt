@@ -1,0 +1,2 @@
+C=CCN(C1CCCC1)C(=O)c2cc(cc(c2)Cl)OCCCONC(=N)N  1T4V_14A
+[H]/N=C(/N)NOCCNC(=O)Cc1c(ccc(c1F)NCC(c2ccccc2)(F)F)Cl  2R2M_I50

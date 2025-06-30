@@ -1,0 +1,2 @@
+c1ccc(c(c1)O)[S@](=O)CCCCP(=O)(O)O  1CW2_HSP
+c1ccc(c(c1)N)SCCCCP(=O)(O)O  1CX9_NHP

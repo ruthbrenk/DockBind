@@ -1,0 +1,3 @@
+Cc1cc(nc(n1)N)c2ccc3c4c2cccc4COC3  3B26_B2L
+CSc1nc(nc(n1)N)c2c3cccc4c3c(cc2Cl)COC4  3B28_B2X
+c1cc2c3c(c1)c(c(cc3COC2)Cl)c4nc(nc(n4)SCCCC(=O)N)N  3WHA_WHA

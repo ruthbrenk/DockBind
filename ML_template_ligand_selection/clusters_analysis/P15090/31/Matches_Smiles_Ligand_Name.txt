@@ -1,0 +1,3 @@
+c1ccc(cc1)Cn2c3c(c4c2c(ccc4)C(=O)O)CCCC3  3FR2_8CA
+c1ccc(c(c1)Cn2c3c(c4c2c(ccc4)C(=O)O)CCCC3)C(F)(F)F  3FR4_F8A
+c1cc(cc(c1)C(=O)N)Cn2c3c(c4c2c(ccc4)C(=O)O)CCCCC3  3FR5_I4A

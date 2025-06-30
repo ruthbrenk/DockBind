@@ -1,0 +1,4 @@
+CN(c1cc(c(c(c1)F)F)F)c2cc3c(nc(nc3nc2)N)N  4QJC_IXE
+Cc1c(cnc2c1c(nc(n2)N)N)Cc3cc(ccc3OC)OC  1DLR_MXA
+c1cc(c(cc1Cl)NCc2cc3c(nc(nc3nc2)N)N)Cl  4G95_OAG
+C[N@](Cc1cc(ccc1OC)OC)c2cc3c(nc(nc3nc2)N)N  1BOZ_PRD

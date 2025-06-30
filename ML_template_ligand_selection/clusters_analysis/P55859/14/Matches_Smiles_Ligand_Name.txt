@@ -1,0 +1,5 @@
+c1c(c2c([nH]1)C(=O)NC(=N2)N)CCCCC(F)(F)P(=O)(O)O  3FUC_9D9
+c1nc2c(n1CCCCC(F)(F)P(=O)(O)O)N=C(NC2=O)N  1V48_HA1
+c1c(c2c([nH]1)C(=O)NC=N2)[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@H](O4)CP(=O)(O)O  2AI2_P1D
+c1nc2c(n1[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@H](O4)CP(=O)(O)O)N=C(NC2=O)N  2AI1_P1G
+c1nc2c(n1[C@H]3[C@H]4[C@@H]([C@H](O3)CO)O[C@@H](O4)P(=O)(O)O)N=C(NC2=O)N  2AI3_P2G

@@ -1,0 +1,3 @@
+C[S@@](=O)C1=C(C(=O)NC(=C1)c2cccc(c2)OC(F)(F)F)C#N  4UNQ_H6D
+c1cc(c2c(c1)C3=C(CC2)C(=C(C(=O)N3)C#N)c4ccc(cc4)C(=O)O)c5c[nH]nc5  4UNR_QZE
+COc1cccc(c1)C2=CC(=C(C(=O)N2)C#N)c3ccc(cc3)C(=O)O  4UNN_QZZ

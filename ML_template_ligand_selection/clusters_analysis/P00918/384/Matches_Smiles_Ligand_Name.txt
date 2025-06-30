@@ -1,0 +1,2 @@
+c1cc(ccc1Nc2nc(nc(n2)Cl)NCCO)S(=O)(=O)N  3MMF_D9H
+COC(=O)CNc1nc(nc(n1)Cl)Nc2ccc(cc2)S(=O)(=O)N  3MNA_DWH

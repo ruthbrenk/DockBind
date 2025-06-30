@@ -1,0 +1,5 @@
+CCOc1ccc(c(c1)NC(=O)c2cc(c(c(c2)C)OCCN)C)OCC  2VIQ_D55
+CCOc1c(cc(cc1Cl)N2CCCCC2)NC(=O)c3cc(c(c(c3)C)OCCN)C  2VIW_D56
+c1c(cc(c(c1Cl)OCCN)Cl)C(=O)O  2VIO_L1O
+CC(C)Oc1cccc(c1)NC(=O)c2cc(c(c(c2)Cl)OCCN)Cl  2VIP_L1R
+Cc1cc(cc(c1OCCN)C)C(=O)Nc2cc(cc(c2)Cl)N3CCCCC3  2VIV_VG2

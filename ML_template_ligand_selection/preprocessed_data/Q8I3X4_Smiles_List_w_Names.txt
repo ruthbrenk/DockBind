@@ -1,0 +1,3 @@
+c1c(c2c([nH]1)C(=O)NC(=N2)N)CN3C[C@@H]([C@H](C3)O)CO  6AQS_IM5
+c1c(c2c([nH]1)c(ncn2)O)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O  1NW4_IMH
+CSC[C@@H]1[C@H]([C@H]([C@@H]([NH2+]1)c2c[nH]c3c2N=CNC3=O)O)O  1Q1G_MTI

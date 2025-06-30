@@ -1,0 +1,4 @@
+C[N@@]1CCc2c(sc(n2)C(=O)N3CC[N@](C[C@@H]3C(=O)N)S(=O)(=O)c4ccc5cc(ccc5c4)Cl)C1  1V3X_D76
+C[N@@]1CCc2c(sc(n2)C(=O)Nc3ccccc3NC(=O)c4cc5cc(ccc5[nH]4)Cl)C1  3Q3K_D90
+C[N@@]1CCc2c(sc(n2)C(=O)N[C@@H]3CCCC[C@@H]3NC(=O)c4cc5cc(ccc5[nH]4)Cl)C1  2EI6_D92
+C[N@@]1CCc2c(sc(n2)C(=O)N[C@@H]3CCCC[C@H]3NC(=O)c4cc5cc(ccc5[nH]4)Cl)C1  2EI7_D93

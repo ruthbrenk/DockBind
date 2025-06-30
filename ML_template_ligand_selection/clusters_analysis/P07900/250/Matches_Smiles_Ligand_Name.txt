@@ -1,0 +1,2 @@
+CCOC(=O)NCc1ccc(cc1)n2c(nnc2S)c3cc(c(cc3O)O)C(C)C  3HHU_819
+COC(=O)c1c(cc(c(c1CCc2nccn2Cc3ccccc3)Cl)O)O  5VYY_9QY

@@ -1,0 +1,2 @@
+Cc1cc(c(c(c1)[N+](=O)[O-])O)[N+](=O)[O-]  5L4F_6J1
+Cc1ccc(cc1)C(=O)c2cc(c(c(c2)O)O)[N+](=O)[O-]  4D7B_TCW

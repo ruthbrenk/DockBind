@@ -1,0 +1,2 @@
+Cc1c(ccc(c1Cl)C#N)N[C@@H]2CCC[C@@]2(C)O  5CJ6_51Y
+Cc1c(ccc(c1Cl)C#N)C2=NN3CC[C@@H]([C@H]3[C@@H]2OC)O  4QL8_JAD

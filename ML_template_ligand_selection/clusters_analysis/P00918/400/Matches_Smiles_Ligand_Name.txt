@@ -1,0 +1,3 @@
+c1ccc(cc1)CCNS(=O)(=O)c2cc(ccc2C(=O)O)S(=O)(=O)N  5AMD_45I
+CC#CCNS(=O)(=O)c1cc(ccc1C(=O)O)S(=O)(=O)N  5AML_51J
+CCCCCNS(=O)(=O)c1cc(ccc1C(=O)O)S(=O)(=O)N  5AMG_IW7

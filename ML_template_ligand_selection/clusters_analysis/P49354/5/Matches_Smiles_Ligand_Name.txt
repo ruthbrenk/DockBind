@@ -1,0 +1,2 @@
+c1cc2ccc3cc2c(c1)N4CCC(C4=O)NCc5cncn5Cc6ccc(c(c6)O3)C#N  1LD8_U49
+c1cc2ccc3cc2c(c1)N4CC[C@@H](C4=O)NCCc5cncn5CC6=CCC(C(C6)O3)C#N  1LD7_U66

@@ -1,0 +1,4 @@
+c1cc(cc(c1)[N+](=O)[O-])C(=O)c2c(nc(s2)Nc3ccc(cc3)Cl)N  3O0G_3O0
+CCCCc1c2c([nH]c1c3ccc(cc3)O)nccn2  1UNG_ALH
+c1ccc2c(c1)/C(=C/3C(=NO)c4ccccc4N3)/C(=O)N2  1UNH_IXM
+c1ccc2c(c1)nc(s2)c3cc(sc3)S(=O)(=O)N  4AU8_Z3R

@@ -1,0 +1,5 @@
+CC1=C(SC(=O)N1C)c2ccnc(n2)Nc3ccc(cc3)S(=O)(=O)NCCOC  2XMY_CDK
+Cc1ncc(n1C(C)C)c2ccnc(n2)Nc3ccc(cc3)S(=O)(=O)C  6GUH_FB8
+Cc1ncc(n1C(C)C)c2ccnc(n2)Nc3ccc(cc3)S(=O)(=O)NCCOC  2W05_FRT
+Cc1ncc(n1C(C)C)c2c(cnc(n2)Nc3ccc(cc3)C(=O)N4CC[C@@H](C4)N(C)C)F  2W17_I19
+Cc1ncc(n1C(C)C)c2ccnc(n2)Nc3ccc(cc3)N4CCN(CC4)C(=O)CO  2VV9_IM9

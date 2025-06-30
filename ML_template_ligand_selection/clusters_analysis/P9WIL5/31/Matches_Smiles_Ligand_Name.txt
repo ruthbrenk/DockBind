@@ -1,0 +1,4 @@
+c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CS)O)O)N  3IOB_A4D
+c1ccc(cc1)CSSC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3ncnc4N)O)O  3IOC_A5D
+c1cc(cc(c1)[N+](=O)[O-])CSSC[C@@H]2[C@H]([C@H]([C@@H](O2)n3cnc4c3ncnc4N)O)O  3IOD_A6D
+c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CSCC[C@H](CO)O)O)O)N  3IOE_A7D

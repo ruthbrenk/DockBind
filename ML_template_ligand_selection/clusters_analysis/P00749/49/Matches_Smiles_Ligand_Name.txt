@@ -1,0 +1,2 @@
+[H]/N=C(/c1ccc2cc(ccc2c1)C(=O)Nc3ccc(cc3)CN)N  1OWH_239
+[H]/N=C(/c1ccc2cc(ccc2c1)C(=O)Nc3ccccc3)N  1OWE_675

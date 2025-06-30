@@ -1,0 +1,2 @@
+c1cc2cnccc2c(c1)OC[C@H]3CCCN3c4ccnc5n4ncn5  5LYX_7BF
+Cc1ccccc1OC[C@H]2CCCN2c3c4c(nc[nH]4)ncn3  5LYW_7BH

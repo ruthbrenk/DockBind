@@ -1,0 +1,2 @@
+c1ccc(cc1)c2cc([n+](c(c2)c3ccccc3)CCc4ccc(cc4)S(=O)(=O)N)c5ccccc5  6EQU_BVE
+Cc1cc([n+](c(c1)C)CCc2ccc(cc2)S(=O)(=O)N)C  1ZE8_PIU

@@ -1,0 +1,3 @@
+c1cc(cc(c1)[N+](=O)[O-])c2ccc(s2)CCC(=O)O  3DN5_53N
+c1cc(cc(c1)[N+](=O)[O-])c2nc(on2)CCCC(=O)O  2IKG_BTO
+c1cc(oc1c2nnc(o2)SCC(=O)O)[N+](=O)[O-]  2IKH_LIT

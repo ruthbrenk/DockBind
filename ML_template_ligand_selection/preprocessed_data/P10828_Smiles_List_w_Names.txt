@@ -1,0 +1,2 @@
+CC(C)c1cc(ccc1O)Oc2c(cc(cc2Br)CCC(=O)O)Br  2J4A_OEF
+Cc1cc(cc(c1Oc2ccc(c(c2)C(C)C)O)C)N3C(=O)NC(=O)C=N3  1N46_PFA

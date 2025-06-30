@@ -1,0 +1,4 @@
+Cc1ccc(cc1C#Cc2cnc3n2nccc3)C(=O)Nc4ccc(c(c4)C(F)(F)F)CN5CCN(CC5)C  3IK3_0LI
+Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)NC(=O)c4cccnc4  1FPU_PRC
+Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)NC(=O)c4ccc(cc4)CN5CCN(CC5)C  1IEP_STI
+Cc1ccc(cc1C#Cc2cnc(n2C)C(=O)N)C(=O)Nc3ccc(c(c3)C(F)(F)F)CN4CCN(CC4)CCO  3OY3_XY3

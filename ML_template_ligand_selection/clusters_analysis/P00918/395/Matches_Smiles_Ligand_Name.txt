@@ -1,0 +1,2 @@
+Cc1ncc(n1CCOS(=O)(=O)N)[N+](=O)[O-]  5O07_1VQ
+Cc1ncc(n1CCNS(=O)(=O)N)[N+](=O)[O-]  4MO8_2VQ

@@ -1,0 +1,2 @@
+COc1ccc(cc1OC2CCCC2)C(=O)Nc3c(cncc3Cl)Cl  1XM4_PIL
+c1cc(c(cc1C(=O)Nc2c(cncc2Cl)Cl)OCC3CC3)OC(F)F  1XMU_ROF

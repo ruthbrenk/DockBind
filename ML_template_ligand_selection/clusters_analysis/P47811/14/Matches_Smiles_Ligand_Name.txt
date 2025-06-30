@@ -1,0 +1,2 @@
+CCn1c2c(cnc(n2)Nc3c(cccc3F)F)nc1Nc4ccccc4Cl  2GTM_LID
+CC(C)n1c2c(cnc(n2)Oc3c(cccc3F)F)nc1Nc4ccccc4F  2GTN_LIE

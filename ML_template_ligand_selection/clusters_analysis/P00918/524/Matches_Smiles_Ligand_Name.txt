@@ -1,0 +1,4 @@
+c1cc(ccc1NS(=O)(=O)N)S(=O)(=O)N  3V5G_0F3
+c1cc(ccc1NS(=O)(=O)c2ccc(cc2)Br)S(=O)(=O)N  5NXI_9DE
+B1(OC(C(O1)(C)C)(C)C)c2ccc(cc2)NS(=O)(=O)N  3MNU_BON
+c1cc(ccc1N2CCCCS2(=O)=O)S(=O)(=O)N  2Q1Q_OSP

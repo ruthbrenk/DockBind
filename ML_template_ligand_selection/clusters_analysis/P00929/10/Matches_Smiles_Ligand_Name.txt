@@ -1,0 +1,2 @@
+c1ccc(c(c1)O)SCCC=CP(=O)(O)O  1C8V_HE1
+c1cc(c(cc1F)SCCC=CP(=O)(O)O)O  1C9D_HF1

@@ -1,0 +1,2 @@
+Cc1cccc2c1cc(n2Cc3cccc(c3)C(=N)N)C(=O)NCc4cc(cc(c4)Cl)Cl  1LPZ_CMB
+C[N+](C)(C)c1ccc(cc1)CNC(=O)c2cc3cc(ccc3n2Cc4cccc(c4)C(=N)N)OCc5ccccc5  1LPG_IMA

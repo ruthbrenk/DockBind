@@ -1,0 +1,3 @@
+CC(C)N1CCC(CC1)NS(=O)(=O)CCNC(=O)c2ccc(s2)Cl  4A7I_A7I
+CC(C)N1CCC(CC1)NC(=O)c2cc3ccccc3n2Cc4cc(on4)c5ccc(s5)Cl  2BOH_IIA
+CC(C)N1CCC(CC1)NC(=O)c2cc3ccccc3n2Cc4cccc(c4)OC  2BQ7_IID

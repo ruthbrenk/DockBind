@@ -1,0 +1,7 @@
+c1ccc(cc1)C(=O)Nc2c[nH]nc2c3[nH]c4ccccc4n3  2W1H_L0F
+CC(=O)Nc1c[nH]nc1C(=O)Nc2ccc(cc2)F  2VTN_LZ7
+c1ccc(cc1)C(=O)Nc2c[nH]nc2C(=O)Nc3ccc(cc3)F  2VTO_LZ8
+c1cc(c(c(c1)F)C(=O)Nc2c[nH]nc2C(=O)Nc3ccc(cc3)F)F  2VTP_LZ9
+c1cc(c(c(c1)F)C(=O)Nc2c[nH]nc2C(=O)NC3CCNCC3)F  2VTQ_LZA
+c1cc(c(c(c1)F)C(=O)Nc2c[nH]nc2C(=O)N[C@H]3CCCNC3)F  2VTT_LZD
+c1cc(c(c(c1)Cl)C(=O)Nc2c[nH]nc2C(=O)NC3CCNCC3)Cl  2VU3_LZE

@@ -1,0 +1,2 @@
+c1ccc(cc1)n2cc(nn2)COc3ccc(cc3)S(N)(O)O  5LJT_A6N
+c1ccc(cc1)OCc2cn(nn2)c3ccc(cc3)S(N)(O)O  5LJQ_ANV

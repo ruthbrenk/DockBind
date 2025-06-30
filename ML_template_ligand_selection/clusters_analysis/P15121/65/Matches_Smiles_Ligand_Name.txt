@@ -1,0 +1,6 @@
+c1ccc2c(c1)C3=NNC(=S)N=C3N2CC(=O)O  4QX4_3E2
+c1ccc2c(c1)c(cn2CC(=O)O)Cc3nc4c(c(cc(c4s3)F)F)F  1Z3N_3NA
+CC1=Nc2c(c3ccccc3nc2c4ccc(cc4)Cl)C(=O)N1CC(=O)O  5OU0_AV5
+CC1=Nc2c(c3cc(ccc3nc2c4ccc(cc4)OC)F)C(=O)N1CC(=O)O  5OUK_AVT
+CC1=Nc2c(c3cc(ccc3nc2c4ccc(cc4)Cl)F)[C@H](N1CC(=O)O)O  5OUJ_AW8
+c1cc2c(cn(c2nc1)CC(=O)O)Cc3nc4c(c(cc(c4s3)F)F)F  3G5E_Q74

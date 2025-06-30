@@ -1,0 +1,3 @@
+c1cc(ccc1NC(=O)CC23CC4CC(C2)CC(C4)C3)S(=O)(=O)N  4ILX_1EZ
+CCC[C@H](C(=O)Nc1ccc(cc1)S(=O)(=O)N)C(C)(C)C  3OY0_OY0
+CC[C@H](C)CCC(=O)Nc1ccc(cc1)S(=O)(=O)N  3OYQ_OYQ

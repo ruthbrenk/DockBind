@@ -1,0 +1,2 @@
+COc1ccc(cc1Cl)c2c(nco2)C(=O)NCCCn3cncn3  5K5N_6QH
+COc1ccc(cc1)c2c(nco2)C(=O)NCc3ccncc3  4AFJ_SJJ

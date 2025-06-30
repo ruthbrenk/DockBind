@@ -1,0 +1,6 @@
+Cc1c(cccc1Cl)Nc2c(cccn2)C(=O)O  5L4I_6J3
+c1ccc(c(c1)C(=O)O)Nc2cccc(c2)C(F)(F)F  1BM7_FLF
+c1ccc(c(c1)C(=O)O)Nc2cc(c(c(c2)Cl)OCCCCCCCCCCCOc3c(cc(cc3Cl)Nc4ccccc4C(=O)O)Cl)Cl  3IPB_JZD
+c1ccc(c(c1)C(=O)O)Nc2cc(c(c(c2)Cl)OCCCCCCCOc3c(cc(cc3Cl)Nc4ccccc4C(=O)O)Cl)Cl  3IPE_JZE
+c1ccc(c(c1)C(=O)O)Nc2ccccc2C(F)(F)F  1DVZ_OFL
+c1ccc(c(c1)C(=O)O)Nc2cc(c(c(c2)Cl)OOO)Cl  1U21_P2C

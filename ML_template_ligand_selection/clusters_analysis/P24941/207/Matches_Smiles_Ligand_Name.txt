@@ -1,0 +1,7 @@
+CC1(Cc2cnc(nc2-c3c1c(nn3C)C(=O)NC)Nc4ccc(cc4)N5CCN(CC5)C)C  2WIH_P48
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)N4CCCNCC4)C#N  4BCP_T3C
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)S(=O)(=O)N)C#N  4BCK_T3E
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)N4CCCN(CC4)C(=O)C)C#N  4BCO_T6Q
+Cc1ccc(cc1S(=O)(=O)N2CCOCC2)Nc3ncc(c(n3)C4=C(NC(=NC)S4)C)C#N  4BCM_T7Z
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)O)C#N  4BCN_T9N
+Cc1c(sc(n1)NC)c2c(cnc(n2)Nc3cccc(c3)C(=O)N4CCOCC4)C#N  4BCQ_TJF

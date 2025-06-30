@@ -1,0 +1,2 @@
+c1ccc(c(c1)C(=O)Nc2c(c3c(s2)CCCC3)C#N)F  2O2U_738
+c1ccc2c(c1)cccc2C(=O)Nc3c(c4c(s3)CN(CC4)C(=O)CCN5CCCCC5)C#N  2O0U_C0M

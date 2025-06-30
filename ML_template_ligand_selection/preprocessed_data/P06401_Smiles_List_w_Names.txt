@@ -1,0 +1,9 @@
+CC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)c5ccc(cc5)N(C)C)C)OC(=O)C  4OAR_2S0
+C[C@@H](C(=O)N(C)C)[N@@](CC(F)(F)F)c1ccc(c(c1)C(F)(F)F)C#N  3G8O_30X
+C[C@]12C[C@@H](C3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@]2(COC)OC)c5ccc(cc5)C=NO  2OVH_AS0
+C[N@]1CC[C@@H](C1)N(Cc2ccccc2C(F)(F)F)c3ccc(c(c3)Cl)C#N  3HQ5_GKK
+C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)OC(=O)c5ccco5)C)O)Cl)C  1SR7_MOF
+C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34  1SQN_NDR
+CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C  1A28_STR
+CC1(c2cc(ccc2NC(=S)O1)c3ccc(n3C)C#N)C  1ZUC_T98
+Cc1ccccc1CN(c2ccc(c(c2)Cl)C#N)[C@H]3CC[N@@](C3)S(=O)(=O)C  3KBA_WOW

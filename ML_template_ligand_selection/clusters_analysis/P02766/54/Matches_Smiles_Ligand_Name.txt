@@ -1,0 +1,2 @@
+c1ccc(cc1)Nc2cccc3c2c(ccc3)S(=O)(=O)O  3CFN_2AN
+c1cc2c(cccc2S(=O)(=O)O)c(c1)N  3CFT_5NS

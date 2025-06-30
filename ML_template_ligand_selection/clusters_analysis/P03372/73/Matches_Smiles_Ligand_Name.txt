@@ -1,0 +1,7 @@
+C[C@]1(c2ccc(cc2CCN1c3ccc(cc3)F)O)c4ccc(cc4)/C=C/C(=O)O  5T92_77W
+Cc1c(ccc2c1CCN([C@@H]2c3ccc(cc3)/C=C/C(=O)O)CC(C)C)O  5FQT_7QN
+C[C@@H]1Cc2cc(ccc2[C@H](N1CC(C)C)c3ccc(cc3)/C=C/C(=O)O)O  5FQP_GQD
+CC/C(=C(c1ccccc1)/c2ccc(cc2)/C=C/C(=O)O)/c3ccccc3  5AAV_GW5
+CC(C)CN1CCc2cc(ccc2[C@@]1(C)c3ccc(cc3)/C=C/C(=O)O)O  5FQS_J0W
+CC(C)CN1CCc2cc(ccc2[C@H]1c3ccc(cc3)/C=C/C(=O)O)O  5FQR_QHG
+Cc1cc2c(cc1O)CCN([C@@H]2c3ccc(cc3)/C=C/C(=O)O)CC(C)C  5FQV_VQI

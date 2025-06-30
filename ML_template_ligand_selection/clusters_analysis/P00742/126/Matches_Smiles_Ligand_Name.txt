@@ -1,0 +1,5 @@
+C[N+](C)(C)CCCN1C(=O)[C@H]2[C@@H]3CCC[N@@]3[C@H]([C@H]2C1=O)c4ccc(cc4)C(=N)N  2BOK_784
+C[N+](C)(C)CCCN1C(=O)[C@H]2[C@@H]3CCCN3[C@H]([C@H]2C1=O)c4cc(on4)c5ccc(s5)Cl  2JKH_BI7
+C[N+](C)(C)CCCN1C(=O)[C@H]2[C@@H]3CCC[N@@]3[C@H]([C@H]2C1=O)c4ncc(o4)c5ccc(s5)Cl  2Y5G_FJD
+c1cc(sc1c2cc(no2)[C@H]3[C@@H]4[C@H]([C@H]5[N@@]3CCC5)C(=O)N(C4=O)CCC[N+]6(CCCC6)CCO)Cl  2Y5F_XWG
+C[N+](C)(C)CCCN1C(=O)[C@H]2[C@@H]3CCC[N@@]3[C@H]([C@H]2C1=O)c4coc(n4)c5ccc(s5)Cl  2Y5H_Y5H

@@ -1,0 +1,4 @@
+COc1ccc2c(c1)cc([nH]2)C(=O)NS(=O)(=O)C  3ISJ_A8D
+Cc1ccc(nc1)S(=O)(=O)NC(=O)c2cc3cc(ccc3[nH]2)OC  3IUB_FG2
+Cc1ccc(nc1)S(=O)(=O)NC(=O)c2cc3cc(ccc3n2CC(=O)O)OC  3IUE_FG3
+COc1ccc2c(c1)cc(n2CC(=O)O)C(=O)NS(=O)(=O)c3cc4ccccc4o3  3IVX_FG6

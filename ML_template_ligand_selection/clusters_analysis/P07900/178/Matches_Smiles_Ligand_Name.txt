@@ -1,0 +1,2 @@
+COc1ccc(cc1OCCCC(=O)O)c2c(c(nc3c2c(c(s3)C(=O)N)N)N)C#N  6F1N_C8W
+CCOc1ccc(cc1)c2c(c(nc3c2c(c(s3)C(=O)N)N)N)C#N  2WI5_ZZ5
