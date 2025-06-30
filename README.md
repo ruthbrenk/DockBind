@@ -19,7 +19,7 @@ DockBind addresses key limitations of existing datasets by:
 The dataset includes:
 
 - **Protein–ligand complexes** modeled with molecular docking
-- **Ligands with binding data** (K<sub>d</sub>, K<sub>d</sub>, and IC<sub>50</sub>) sourced from BindingDB and ChEMBL
+- **Ligands with binding data** (K<sub>d</sub>, K<sub>i</sub>, and IC<sub>50</sub>) sourced from BindingDB and ChEMBL
 
 ## Download DockBind scripts
 
