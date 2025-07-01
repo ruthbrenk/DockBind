@@ -5,8 +5,8 @@ from rdkit.Chem import AllChem
 
 print('Loading dataframes...')
 
-df = pd.read_csv('../data/selected_templates_updated_2024.csv')
-ch = pd.read_csv('../data/ChEMBL_activities_for_bindingMOAD_2024.csv')
+df = pd.read_csv('../data_DockBind/selected_templates_updated_2024.csv')
+ch = pd.read_csv('../data_DockBind/ChEMBL_activities_for_bindingMOAD_2024.csv')
 
 uni_w_act = ch.accession.drop_duplicates().to_list()
 bm_ch = df[df.UniProt_ID.isin(uni_w_act)].reset_index(drop=True)
@@ -43,4 +43,4 @@ TS_df = pd.DataFrame(to_append)
 TS_df.to_csv('../data/full_BindingMOAD_ChEMBL_Tanimoto_similarity.csv', index=False)
 
 ch_selected_for_docking = TS_df[TS_df.Tanimoto_Similarity >= 0.7].reset_index(drop=True)
-ch_selected_for_docking.to_csv('../data/ChEMBL_ligands_selected_for_docking.csv', index=False)
+ch_selected_for_docking.to_csv('../data_DockBind/ChEMBL_ligands_selected_for_docking.csv', index=False)

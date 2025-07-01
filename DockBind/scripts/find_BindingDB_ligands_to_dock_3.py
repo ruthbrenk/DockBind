@@ -4,7 +4,7 @@ from rdkit import Chem, DataStructs
 from rdkit.Chem import AllChem
 
 print('Loading datasets...')
-df = pd.read_csv('../data/selected_templates_updated_2024.csv')
+df = pd.read_csv('../data_DockBind/selected_templates_updated_2024.csv')
 ch = pd.read_csv('../data/BindingDB_activities_for_BindingMOAD_2024.csv')
 
 uni_w_act = ch['UniProt (SwissProt) Primary ID of Target Chain'].drop_duplicates().to_list()
