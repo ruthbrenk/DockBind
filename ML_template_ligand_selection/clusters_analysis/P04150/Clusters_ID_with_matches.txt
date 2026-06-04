@@ -1,2 +1,0 @@
-Cluster number 11 has matched molecules:  2
-Cluster number 10 has matched molecules:  4

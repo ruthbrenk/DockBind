@@ -1,2 +1,0 @@
-Cluster number 14 has matched molecules:  5
-Cluster number 12 has matched molecules:  3

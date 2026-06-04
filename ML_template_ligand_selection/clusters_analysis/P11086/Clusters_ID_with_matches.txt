@@ -1,2 +1,0 @@
-Cluster number 31 has matched molecules:  6
-Cluster number 19 has matched molecules:  2
