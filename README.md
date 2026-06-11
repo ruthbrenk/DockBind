@@ -1,4 +1,4 @@
-# DockBind: a high-quality dataset of modeled protein-ligand complexes for training and validating machine learning scoring functions
+# DockBind: a quality-controlled dataset of modelled protein–ligand complexes associated with affinity data
 
 **DockBind** is a curated dataset designed to support the development and benchmarking of machine learning models for protein–ligand binding prediction. 
 It includes high-quality protein-ligand complexes modeled through molecular docking annotated with binding affinity data from ChEMBL and BindingDB.
